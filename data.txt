@@ -1,0 +1,1806 @@
+Page 1, Line 1: Printed by PRATTS, DAWN [14999]
+Page 1, Line 2: <!-- PageNumber="Page 1 of 4" -->
+Page 1, Line 3: Order#
+Page 1, Line 4: X-ray chest 1 view 71045
+Page 1, Line 5: Reading physician: Michael Licata, MD Ordering physician: Mara Kasputis, MD Study date:
+Page 1, Line 6: V22
+Page 1, Line 7: ECL PACS Link
+Page 1, Line 8: Show images for X-ray chest 1 view 71045
+Page 1, Line 9: & Study Result
+Page 1, Line 10: Narrative & Impression
+Page 1, Line 11: CLINICAL HISTORY: Short of breath.
+Page 1, Line 12: An AP portable view of the chest is examined.
+Page 1, Line 13: The heart is enlarged. Atherosclerotic changes are seen in the aorta.
+Page 1, Line 14: Pulmonary vascular congestion is present. No focal infiltrate is identified. There is a trace left pleural
+Page 1, Line 15: effusion.
+Page 1, Line 16: There are arthritic changes in the shoulders with evidence for bilateral chronic rotator cuff tears.
+Page 1, Line 17: IMPRESSION:
+Page 1, Line 18: Cardiomegaly with mild vascular congestion and trace left pleural effusion.
+Page 1, Line 19: Reading Location: SR-LICATA
+Page 1, Line 20: Dictated By: Licata, Michael
+Page 1, Line 21: Dictated Date/Time:
+Page 1, Line 22: /2022 9:16 AM
+Page 1, Line 23: Electronically Signed By: Licata, Michael
+Page 1, Line 24: Signed Date/Time:
+Page 1, Line 25: 2022 9:17 AM
+Page 1, Line 26: # Result History
+Page 1, Line 27: X-ray chest 1 view 71045 (Order #
+Page 1, Line 28: on
+Page 1, Line 29: 2022 - Order Result History Report
+Page 1, Line 30: Signed by
+Page 1, Line 31: Signed
+Page 1, Line 32: LICATA, MICHAEL
+Page 1, Line 33: Date/Time
+Page 1, Line 34: 2022 09:17
+Page 1, Line 35: Phone
+Page 1, Line 36: 716-649-9000
+Page 1, Line 37: Pager
+Page 2, Line 1: Printed by PRATTS, DAWN [14999]
+===
+Page 2, Line 2: <!-- PageNumber="Page 2 of 4" -->
+Page 2, Line 3: Exam Information
+Page 2, Line 4: Status
+Page 2, Line 5: Final [99]
+Page 2, Line 6: Exam
+Page 2, Line 7: Begun
+Page 2, Line 8: /2022 09:01
+Page 2, Line 9: Exam
+Page 2, Line 10: Ended
+Page 2, Line 11: 2022 09:01
+Page 2, Line 12: Reason for Exam
+Page 2, Line 13: CP/SOB
+Page 2, Line 14: Priority: STAT
+Page 2, Line 15: :º Study Notes
+Page 2, Line 16: Territo, Ashley on
+Page 2, Line 17: /2022 9:01 AM
+Page 2, Line 18: sob
+Page 2, Line 19: External Results Report
+Page 2, Line 20: Open External Results Report
+Page 2, Line 21: Encounter
+Page 2, Line 22: View Encounter
+Page 2, Line 23: Screening Form Questions
+Page 2, Line 24: No questions have been answered for this form.
+Page 2, Line 25: E X-ray chest 1 view 71045
+Page 2, Line 26: Order:
+Page 2, Line 27: Status: Final result Visible to patient: No (inaccessible in MyChart) Next appt: None
+Page 2, Line 28: 0 Result Notes
+Page 2, Line 29: Details
+Page 2, Line 30: Reading Physician
+Page 2, Line 31: Reading Date
+Page 2, Line 32: Result Priority
+Page 2, Line 33: Michael Licata, MD
+Page 2, Line 34: 716-649-9000
+Page 2, Line 35: 2022
+Page 2, Line 36: STAT
+Page 2, Line 37: Narrative & Impression
+Page 2, Line 38: CLINICAL HISTORY: Short of breath.
+Page 2, Line 39: An AP portable view of the chest is examined.
+Page 2, Line 40: The heart is enlarged. Atherosclerotic changes are seen in the aorta.
+Page 2, Line 41: Pulmonary vascular congestion is present. No focal infiltrate is identified. There is a trace left pleural
+Page 2, Line 42: effusion.
+Page 2, Line 43: There are arthritic changes in the shoulders with evidence for bilateral chronic rotator cuff tears.
+Page 2, Line 44: IMPRESSION:
+Page 3, Line 1: Printed by PRATTS, DAWN [14999]
+Page 3, Line 2: <!-- PageNumber="Page 3 of 4" -->
+Page 3, Line 3: Cardiomegaly with mild vascular congestion and trace left pleural effusion.
+Page 3, Line 4: Reading Location: SR-LICATA
+Page 3, Line 5: Dictated By: Licata, Michael
+Page 3, Line 6: Dictated Date/Time:
+Page 3, Line 7: 2022 9:16 AM
+Page 3, Line 8: Electronically Signed By: Licata, Michael
+Page 3, Line 9: Signed Date/Time:
+Page 3, Line 10: /2022 9:17 AM
+Page 3, Line 11: Specimen Collected:
+Page 3, Line 12: 22 09:16
+Page 3, Line 13: Last Resulted:
+Page 3, Line 14: 22 09:17
+Page 3, Line 15: Order Details
+Page 3, Line 16: AP View Encounter
+Page 3, Line 17: Lab and Collection Details
+Page 3, Line 18: Routing
+Page 3, Line 19: Result History
+Page 3, Line 20: Result Care Coordination
+Page 3, Line 21: Patient Communication
+Page 3, Line 22: Released
+Page 3, Line 23: X Not seen
+Page 3, Line 24: Back to Top
+Page 3, Line 25: :9 Begin Exam Questions
+Page 3, Line 26: Was the patient's identity
+Page 3, Line 27: verified?
+Page 3, Line 28: Yes
+Page 3, Line 29: Was the order verified?
+Page 3, Line 30: Yes
+Page 3, Line 31: Was the procedure explained to
+Page 3, Line 32: the patient?
+Page 3, Line 33: Yes
+Page 3, Line 34: Did the patient state
+Page 3, Line 35: Yes
+Page 3, Line 36: understanding?
+Page 3, Line 37: End Exam Questions
+Page 3, Line 38: Was the patient shielded?
+Page 3, Line 39: Answer
+Page 3, Line 40: Comment
+Page 3, Line 41: Yes
+Page 3, Line 42: Were all relevant documents
+Page 3, Line 43: scanned?
+Page 3, Line 44: Yes
+Page 3, Line 45: Was all imaging sent to PACS?
+Page 3, Line 46: Yes
+Page 3, Line 47: Radiation Exposure Data
+Page 3, Line 48: X-ray chest 1 view 71045
+Page 3, Line 49: No radiation information documented for this order
+Page 3, Line 50: Accession #:
+Page 3, Line 51: \-
+Page 3, Line 52: Answer
+Page 3, Line 53: Comment
+Page 4, Line 1: Printed by PRATTS, DAWN [14999]
+Page 4, Line 2: <!-- PageNumber="Page 4 of 4" -->
+Page 4, Line 3: X-ray chest 1 view 71045: Patient Communication
+Page 4, Line 4: Released
+Page 4, Line 5: Not seen
+Page 4, Line 6: Printed at
+Page 4, Line 7: 22 7:53 AM
+Page 5, Line 1: <!-- PageNumber="Page 1 of 5" -->
+Page 5, Line 2: <!-- PageHeader="Printed by PRATTS, DAWN [14999]" -->
+Page 5, Line 3: (MRN
+Page 5, Line 4: Transthoracic echo (TTE) complete
+===
+Page 5, Line 5: Order#
+Page 5, Line 6: Reading physician: Robert A Gianfagna, MD Ordering physician: Eunkyung J Shin Study date:
+Page 5, Line 7: [22
+Page 5, Line 8: ## Patient Information
+Page 5, Line 9: Name
+Page 5, Line 10: MRN
+Page 5, Line 11: Date of Birth
+Page 5, Line 12: 1935
+Page 5, Line 13: Age/Gender
+Page 5, Line 14: Vitals
+Page 5, Line 15: Height
+Page 5, Line 16: Weight
+Page 5, Line 17: BSA (Calculated - sq m) BP
+Page 5, Line 18: 1.549 m (5' 0.98")
+Page 5, Line 19: 83.5 kg (184 lb)
+Page 5, Line 20: 1.9 sq meters
+Page 5, Line 21: 111/70
+Page 5, Line 22: Reason for Exam
+Page 5, Line 23: Priority: Routine
+Page 5, Line 24: Dx: Atrial flutter with rapid ventricular response (CMS/HCC) [148.92 (ICD-10-CM)]
+Page 5, Line 25: ## PACS Result Report
+Page 5, Line 26: Open PACS Result Report
+Page 5, Line 27: Questions
+Page 5, Line 28: «
+Page 5, Line 29: Reason for Exam:
+Page 5, Line 30: Atrial Fibrillation
+Page 5, Line 31: CHF
+Page 5, Line 32: ## PACS Images
+Page 5, Line 33: Show images for Transthoracic echo (TTE) complete
+Page 5, Line 34: ## Interpretation Summary
+Page 5, Line 35: · Left ventricular systolic function is normal with an ejection fraction of 55-60%.
+Page 5, Line 36: · Left ventricle shows mild concentric hypertrophy.
+Page 5, Line 37: · Left atrium cavity is moderately dilated.
+Page 5, Line 38: · Right ventricular systolic function is normal.
+Page 5, Line 39: . The aortic valve structure is normal. The leaflets exhibit normal excursion.
+Page 5, Line 40: · There is mild tricuspid valve regurgitation.
+Page 5, Line 41: · There is a trivial pericardial effusion.
+Page 5, Line 42: · The left ventricular wall motion is normal.
+Page 6, Line 1: <!-- PageNumber="Page 2 of 5" -->
+Page 6, Line 2: Printed by PRATTS, DAWN [14999]
+===
+Page 6, Line 3: @ Prior Study
+Page 6, Line 4: No prior study available for comparison.
+Page 6, Line 5: ## E Study Details
+Page 6, Line 6: A complete echo was performed using complete 2D, color flow Doppler and spectral Doppler. The study
+Page 6, Line 7: had technical difficulties. The study was difficult due to patient's clinical status and body habitus.
+Page 6, Line 8: ECG
+Page 6, Line 9: The ECG shows atrial fibrillation.
+Page 6, Line 10: ## Myocardial Findings
+Page 6, Line 11: Left Ventricle Left ventricle cavity size appears normal. There is mild concentric hypertrophy. Left
+Page 6, Line 12: ventricular systolic function is normal with an ejection fraction of 55-60%. Regional
+Page 6, Line 13: wall motion is within normal limits. Unable to assess diastolic function in the
+Page 6, Line 14: presence of atrial fibrillation.
+Page 6, Line 15: Left Atrium Left atrium cavity size is moderately dilated.
+Page 6, Line 16: Right Ventricle Right ventricle cavity size appears normal. Systolic function is normal.
+Page 6, Line 17: Right Atrium Right atrium cavity size is normal.
+Page 6, Line 18: Aortic Valve The aortic valve structure is normal. The leaflets exhibit normal excursion. There is no
+Page 6, Line 19: regurgitation or stenosis.
+Page 6, Line 20: Mitral Valve Mitral valve structure is normal. The anterior leaflet exhibits normal excursion.The
+Page 6, Line 21: posterior leaflet exhibits normal excursion.There is mild annular calcification. There is
+Page 6, Line 22: no regurgitation or stenosis.
+Page 6, Line 23: Tricuspid Tricuspid valve structure is normal. The leaflets exhibit normal excursion. There is mild
+Page 6, Line 24: Valve regurgitation. There is no evidence of tricuspid valve stenosis. RVSP is 24 mmHg.
+Page 6, Line 25: Pulmonic
+Page 6, Line 26: Valve The leaflets exhibit normal excursion. There is no regurgitation or stenosis.
+Page 6, Line 27: Ascending
+Page 6, Line 28: Aorta The aortic root at the Sinuses of Valsalva appears normal in size.
+Page 6, Line 29: IVC/SVC IVC is normal.
+Page 6, Line 30: Pericardium There is a trivial pericardial effusion.
+Page 6, Line 31: ## 2D Measurements
+Page 6, Line 32: Left Ventricle/Left Atrium
+Page 6, Line 33: Aortic Root - End Diastolic
+Page 6, Line 34: LVIDD
+Page 6, Line 35: 4.82 cm
+Page 6, Line 36: LVIDS
+Page 6, Line 37: 3.42 cm
+Page 6, Line 38: Ao-annulus
+Page 6, Line 39: 3.1 cm
+Page 6, Line 40: Right Ventricle/Right Atrium
+Page 7, Line 1: <!-- PageNumber="Page 3 of 5" -->
+Page 7, Line 2: Printed by PRATTS, DAWN [14999]
+Page 7, Line 3: RVID d
+Page 7, Line 4: 2.7 cm
+Page 7, Line 5: IVSd
+Page 7, Line 6: 1.57 cm
+Page 7, Line 7: LVPWd
+Page 7, Line 8: 1 cm
+Page 7, Line 9: LV Diastolic
+Page 7, Line 10: Volume (BP)
+Page 7, Line 11: 62.4 mL
+Page 7, Line 12: LV Systolic Volume 36.7 mL
+Page 7, Line 13: (BP)
+Page 7, Line 14: LV SV Index (BP)
+Page 7, Line 15: 14.2 ml/m2
+Page 7, Line 16: FS
+Page 7, Line 17: 29 %
+Page 7, Line 18: Simpson BP
+Page 7, Line 19: 41 %
+Page 7, Line 20: 2D EF
+Page 7, Line 21: 57 %
+Page 7, Line 22: LA size
+Page 7, Line 23: 5.4 cm
+Page 7, Line 24: E Doppler Measurements - Aortic Valve
+Page 7, Line 25: Stenosis
+Page 7, Line 26: LVOT diameter
+Page 7, Line 27: 1.9 cm
+Page 7, Line 28: LVOT area
+Page 7, Line 29: 2.83 cm2
+Page 7, Line 30: LVOT peak vel
+Page 7, Line 31: 0.855 m/s
+Page 7, Line 32: LVOT peak VTI
+Page 7, Line 33: 0.153 m
+Page 7, Line 34: LVOT peak grad
+Page 7, Line 35: 2.9 mmHg
+Page 7, Line 36: LVOT mean grad
+Page 7, Line 37: 2 mmHg
+Page 7, Line 38: AV area peak vel
+Page 7, Line 39: 1.5 cm2
+Page 7, Line 40: Ao peak vel
+Page 7, Line 41: 1.6 m/s
+Page 7, Line 42: Ao VTI
+Page 7, Line 43: 0.247 m
+Page 7, Line 44: Valve area - Index
+Page 7, Line 45: 1 cm2/m2
+Page 7, Line 46: AV peak grad
+Page 7, Line 47: 10 mmHg
+Page 7, Line 48: AV mean grad
+Page 7, Line 49: 5 mmHg
+Page 7, Line 50: AV Velocity Ratio
+Page 7, Line 51: 0.53
+Page 7, Line 52: AV valve area
+Page 7, Line 53: 1.76 cm2
+Page 7, Line 54: AV area by cont VTI
+Page 7, Line 55: 1.76 cm2
+Page 7, Line 56: E Doppler Measurements - Mitral Valve
+Page 7, Line 57: Stenosis
+Page 7, Line 58: MV mean grad
+Page 7, Line 59: 4 mmHg
+Page 7, Line 60: MV peak grad
+Page 7, Line 61: 10.5 mmHg
+Page 7, Line 62: MV valve area p 1/2
+Page 7, Line 63: method
+Page 7, Line 64: 4.31 cm2
+Page 7, Line 65: MV stenosis pressure 1/2 51 ms
+Page 7, Line 66: time
+Page 7, Line 67: E Doppler Measurements - Tricuspid Valve
+Page 8, Line 1: <!-- PageHeader="Printed by PRATTS, DAWN [14999]" -->
+Page 8, Line 2: Regurgitation
+Page 8, Line 3: TR peak vel
+Page 8, Line 4: 2.3 m/s
+Page 8, Line 5: TV Regurgitation peak
+Page 8, Line 6: grad
+Page 8, Line 7: 21.53 mmHg
+Page 8, Line 8: Est. RA pres
+Page 8, Line 9: 3 mmHg
+Page 8, Line 10: RV Peak Systolic
+Page 8, Line 11: Pressure
+Page 8, Line 12: 24 mmHg
+Page 8, Line 13: ## Doppler Measurements - Diastolic Filling
+Page 8, Line 14: E/A ratio
+Page 8, Line 15: 1.6
+Page 8, Line 16: MV E' Tissue Velocity
+Page 8, Line 17: 4.1 cm/s
+Page 8, Line 18: <!-- PageNumber="Page 4 of 5" -->
+Page 8, Line 19: MV peak E vel
+Page 8, Line 20: 133 cm/s
+Page 8, Line 21: MV peak A vel
+Page 8, Line 22: 83.2 cm/s
+Page 8, Line 23: E wave deceleration
+Page 8, Line 24: 173 msec
+Page 8, Line 25: time
+Page 8, Line 26: ## Wall Scoring
+Page 8, Line 27: <!-- FigureContent="Baseline
+Page 8, Line 28: Score Index: 1.00
+Page 8, Line 29: Guse SA
+Page 8, Line 30: 8
+Page 8, Line 31: Long Axa
+Page 8, Line 32: And
+Page 8, Line 33: Sept
+Page 8, Line 34: 1
+Page 8, Line 35: Sep
+Page 8, Line 36: Ant
+Page 8, Line 37: Sad
+Page 8, Line 38: 3
+Page 8, Line 39: 1
+Page 8, Line 40: The left ventricular wall motion is normal.
+Page 8, Line 41: 1
+Page 8, Line 42: Hyperkinesis
+Page 8, Line 43: Normal
+Page 8, Line 44: 2
+Page 8, Line 45: Hypokinesis
+Page 8, Line 46: 3
+Page 8, Line 47: Akinesis
+Page 8, Line 48: Dyskinesis
+Page 8, Line 49: 5
+Page 8, Line 50: Aneurysmal" -->
+Page 8, Line 51: ## Exam Details
+Page 8, Line 52: Performed Procedure
+Page 8, Line 53: Transthoracic echo (TTE) Jade Koerner, RDCS
+Page 8, Line 54: complete
+Page 8, Line 55: Lateral
+Page 8, Line 56: Technologist
+Page 8, Line 57: Supporting Staff
+Page 8, Line 58: Performing Physician
+Page 8, Line 59: Appointment
+Page 8, Line 60: Date/Status
+Page 8, Line 61: 2022 Completed
+Page 8, Line 62: Modality
+Page 8, Line 63: BMH FAST TRACK 3
+Page 8, Line 64: Department
+Page 8, Line 65: BMH NON-INV CARD
+Page 8, Line 66: PROC
+Page 8, Line 67: Begin Exam
+Page 8, Line 68: 2022 1:40 PM
+Page 8, Line 69: End Exam
+Page 8, Line 70: 2022 1:41 PM
+Page 9, Line 1: Printed by PRATTS, DAWN [14999]
+===
+Page 9, Line 2: <!-- PageNumber="Page 5 of 5" -->
+Page 9, Line 3: 3 Signed
+Page 9, Line 4: Electronically signed by Robert A Gianfagna, MD on
+Page 9, Line 5: /22 at 1413 EST
+Page 9, Line 6: Transthoracic echo (TTE) complete: Patient Communication
+Page 9, Line 7: Released
+Page 9, Line 8: X Not seen
+Page 9, Line 9: External Results Report
+Page 9, Line 10: Open External Results Report
+Page 9, Line 11: S
+Page 9, Line 12: Encounter
+Page 9, Line 13: View Encounter
+Page 9, Line 14: Encounter-Level Documents on
+Page 9, Line 15: 01/09/2022:
+Page 9, Line 16: Order-Level Documents:
+Page 9, Line 17: There are no order-level documents.
+Page 9, Line 18: <!-- FigureContent="Order Report
+Page 9, Line 19: Order Details
+Page 9, Line 20: Printed at
+Page 9, Line 21: /22 7:54 AM" -->
+Page 9, Line 22: /2022
+Page 9, Line 23: After Visit Summary - Document on
+Page 9, Line 24: 4:09 PM: AVS - Discharge to Home
+Page 9, Line 25: CMS IM for Patient Signature - Electronic
+Page 9, Line 26: signature on
+Page 9, Line 27: 2022 8:20 AM - E-signed
+Page 9, Line 28: CHS Consent for Treatment and Financial ROI -
+Page 9, Line 29: Electronic signature on
+Page 9, Line 30: 2022 8:20 AM - 2 of 3
+Page 9, Line 31: e-signatures recorded
+Page 9, Line 32: Flowsheet - Scan on
+Page 9, Line 33: 2022: Rhythm Strips
+Page 9, Line 34: Flowsheet - Scan on
+Page 9, Line 35: 2022: rhythm strips
+Page 9, Line 36: Flowsheet - Scan on
+Page 9, Line 37: 2022: Rhythm Strips
+Page 9, Line 38: Flowsheet - Scan on
+Page 9, Line 39: 2022: Rhythm Strips
+Page 10, Line 1: <!-- PageHeader="MRN:
+Page 10, Line 2: Adm:
+Page 10, Line 3: D/C:" -->
+Page 10, Line 4: DOB:
+Page 10, Line 5: 1935, Sex: F
+Page 10, Line 6: Discharge Summary by Johnna R Breier, NP at
+Page 10, Line 7: 2022 3:34 PM
+Page 10, Line 8: Author: Johnna R Breier, NP
+Page 10, Line 9: Filed:
+Page 10, Line 10: 2022 3:36 PM
+Page 10, Line 11: Editor: Johnna R Breier, NP (Nurse Practitioner)
+Page 10, Line 12: Service: Internal Medicine
+Page 10, Line 13: Date of Service:
+Page 10, Line 14: 2022 3:34 PM
+Page 10, Line 15: Author Type: Nurse Practitioner
+Page 10, Line 16: Status: Signed
+Page 10, Line 17: Catholic Health
+Page 10, Line 18: <!-- FigureContent="SOUND
+Page 10, Line 19: PHYSICIANS™" -->
+Page 10, Line 20: Hospitalist Discharge Summary
+Page 10, Line 21: Patient Name:
+Page 10, Line 22: Date of Birth:
+Page 10, Line 23: 1935
+Page 10, Line 24: MRN:
+Page 10, Line 25: PCP:
+Page 10, Line 26: Hoffman, Lisa B, MD
+Page 10, Line 27: 716-712-0851
+Page 10, Line 28: Allergies:
+Page 10, Line 29: Admit Date:
+Page 10, Line 30: Patient has no known allergies.
+Page 10, Line 31: 2022
+Page 10, Line 32: Discharge Diet:
+Page 10, Line 33: Adult diet Diet type: Regular; Diet modifications: No caffeine / No decaf;
+Page 10, Line 34: Fat restriction: Cholesterol restricted
+Page 10, Line 35: Discharge Date:
+Page 10, Line 36: 2022; Discharge Condition: stable; Discharge Disposition: Outpatient
+Page 10, Line 37: services
+Page 10, Line 38: Admit Diagnosis: Atrial flutter with rapid ventricular response (CMS/HCC) [148.92]
+Page 10, Line 39: Abnormal cardiac enzyme level [R74.8]
+Page 10, Line 40: Chest pain, unspecified type [R07.9]
+Page 10, Line 41: Hospital Course:
+Page 10, Line 42: is a
+Page 10, Line 43: y.o. female presenting to the ER at Buffalo Mercy on
+Page 10, Line 44: 2022 with
+Page 10, Line 45: complaints of chest pain. Patient has been having waxing and waning, substernal pressure like CP associated
+Page 10, Line 46: with SOB since the prior morning. No radiation. Has been diagnosed with afib recently and was started on new
+Page 10, Line 47: meds including Eliquis, which she has been compliant with. Denies abdominal pain, palpitations, dizziness,
+Page 10, Line 48: syncope, fever/chills. Vaccinated against COVID-19. Work up in the ED showed atrial flutter/fibrillation with
+Page 10, Line 49: RVR. The patient was admitted medical service for further work-up and monitoring. Cardiology was consulted
+Page 10, Line 50: for A flutter with RVR.
+Page 10, Line 51: The patient was started on Cardizem drip with improvement in rates. Echocardiogram completed on
+Page 10, Line 52: <!-- FigureContent="2022" -->
+Page 10, Line 53: reveals normal systolic function with ejection fraction of 55 to 60%. Left ventricle shows mild concentric
+Page 10, Line 54: hypertrophy left atrial cavity is moderately dilated. The patient did have an elevated BNP and bibasilar rales
+Page 10, Line 55: which is more common in pedal with a diagnosis of CHF with diastolic element. The patient was diuresed with
+Page 10, Line 56: Lasix with good effect. On day two of her hospitalization the patient was transitioned from Cardizem drip to
+Page 10, Line 57: oral Cardizem. She tolerated this transition well and her rates remained controlled. Following her work-up was
+Page 10, Line 58: ultimately concluded that the patient's chest pain and troponin anemia are not consistent with an ACS
+Page 10, Line 59: <!-- PageFooter="Printed by Interface, Documentation Out [INTF334100] at" -->
+Page 10, Line 60: 22 9:29 AM
+Page 11, Line 1: MRN:
+Page 11, Line 2: Adm:
+Page 11, Line 3: 2022, D/C:
+Page 11, Line 4: DOB:
+Page 11, Line 5: 1935, Sex: F
+Page 11, Line 6: 2022
+Page 11, Line 7: Discharge Summary by Johnna R Breier, NP at
+Page 11, Line 8: 2022 3:34 PM (continued)
+Page 11, Line 9: situation, troponins were mildly elevated, likely stress related to tachycardia. She has been transition to long-
+Page 11, Line 10: acting calcium channel blocker, long-acting metoprolol, she will continue on Eliquis for CVA prophylaxis.
+Page 11, Line 11: Cardiology is recommending the patient follow-up with her outpatient provider in the next 7 to 10 days and to
+Page 11, Line 12: have a stress test. She should also follow-up with her primary care provider.
+Page 11, Line 13: The patient has been seen and assessed by myself at this time and deemed stable for discharge.
+Page 11, Line 14: Discharge Diagnoses
+Page 11, Line 15: Principal Problem:
+Page 11, Line 16: Atrial flutter with rapid ventricular response (CMS/HCC)
+Page 11, Line 17: Active Problems:
+Page 11, Line 18: Acute on chronic heart failure with preserved ejection fraction (CMS/HCC)
+Page 11, Line 19: Discharge Medications
+Page 11, Line 20: Your medication list
+Page 11, Line 21: START taking these medications
+Page 11, Line 22: Instructions
+Page 11, Line 23: Last Dose
+Page 11, Line 24: Given
+Page 11, Line 25: Next Dose
+Page 11, Line 26: Due
+Page 11, Line 27: dilTIAZem CD 240 mg 24 hr capsule
+Page 11, Line 28: Take 1 capsule
+Page 11, Line 29: Commonly known as: Cardizem CD
+Page 11, Line 30: (240 mg total)
+Page 11, Line 31: Replaces: dilTIAZem 30 mg immediate
+Page 11, Line 32: release tablet
+Page 11, Line 33: by mouth 1
+Page 11, Line 34: (one) time
+Page 11, Line 35: each day.
+Page 11, Line 36: CHANGE how you take these medications
+Page 11, Line 37: Instructions
+Page 11, Line 38: Last Dose
+Page 11, Line 39: Given
+Page 11, Line 40: Next Dose
+Page 11, Line 41: Due
+Page 11, Line 42: <!-- PageFooter="Printed by Interface, Documentation Out [INTF334100] a" -->
+Page 11, Line 43: <!-- PageFooter="22 9:29 AM" -->
+Page 12, Line 1: MRN:
+Page 12, Line 2: Adm:
+Page 12, Line 3: 2022, D/C:
+Page 12, Line 4: DOB:
+Page 12, Line 5: 1935, Sex: F
+Page 12, Line 6: 2022
+Page 12, Line 7: Discharge Summary by Johnna R Breier, NP at
+Page 12, Line 8: 2022 3:34 PM (continued)
+Page 12, Line 9: Instructions
+Page 12, Line 10: Last Dose
+Page 12, Line 11: Given
+Page 12, Line 12: Next Dose
+Page 12, Line 13: Due
+Page 12, Line 14: metoprolol succinate 100 mg 24 hr tablet Take 1 tablet
+Page 12, Line 15: Commonly known as: Toprol-XL
+Page 12, Line 16: Start taking on:
+Page 12, Line 17: 2022
+Page 12, Line 18: What changed:
+Page 12, Line 19: · medication strength
+Page 12, Line 20: . how much to take
+Page 12, Line 21: . how to take this
+Page 12, Line 22: . when to take this
+Page 12, Line 23: · additional instructions
+Page 12, Line 24: (100 mg total)
+Page 12, Line 25: by mouth 1
+Page 12, Line 26: (one) time
+Page 12, Line 27: each day. Do
+Page 12, Line 28: not crush or
+Page 12, Line 29: chew.
+Page 12, Line 30: CONTINUE taking these medications
+Page 12, Line 31: Instructions
+Page 12, Line 32: Last Dose
+Page 12, Line 33: Next Dose
+Page 12, Line 34: Given
+Page 12, Line 35: Due
+Page 12, Line 36: aspirin 81 mg EC tablet
+Page 12, Line 37: atorvastatin 40 mg tablet
+Page 12, Line 38: Commonly known as: Lipitor
+Page 12, Line 39: betamethasone dipropionate 0.05 %
+Page 12, Line 40: ointment
+Page 12, Line 41: Commonly known as: Diprolene
+Page 12, Line 42: biotin 5 mg capsule
+Page 12, Line 43: cholecalciferol (vit D3)(bulk) 100,000
+Page 12, Line 44: unit/gram powder
+Page 12, Line 45: doxycycline 100 mg
+Page 12, Line 46: Commonly known as: Vibramycin
+Page 12, Line 47: DULoxetine 60 mg DR capsule
+Page 12, Line 48: Commonly known as: Cymbalta
+Page 12, Line 49: <!-- PageFooter="Printed by Interface, Documentation Out [INTF334100] at
+Page 12, Line 50: 22 9:29 AM" -->
+Page 13, Line 1: <!-- FigureContent="MRN:
+Page 13, Line 2: Adm:
+Page 13, Line 3: 2022, D/C:
+Page 13, Line 4: DOB:
+Page 13, Line 5: 1935, Sex: F
+Page 13, Line 6: 2022" -->
+Page 13, Line 7: 2022 3:34 PM (continued)
+===
+Page 13, Line 8: Discharge Summary by Johnna R Breier, NP at
+Page 13, Line 9: Instructions
+Page 13, Line 10: Last Dose
+Page 13, Line 11: Next Dose
+Page 13, Line 12: Due
+Page 13, Line 13: Given
+Page 13, Line 14: Eliquis 5 mg tablet
+Page 13, Line 15: Generic drug: apixaban
+Page 13, Line 16: famotidine 20 mg tablet
+Page 13, Line 17: Commonly known as: Pepcid
+Page 13, Line 18: hydroCHLOROthiazide 25 mg tablet
+Page 13, Line 19: Commonly known as: HYDRODiuril
+Page 13, Line 20: hydrOXYchloroQUINE 200 mg tablet
+Page 13, Line 21: Commonly known as: Plaquenil
+Page 13, Line 22: mupirocin 2 % ointment
+Page 13, Line 23: Commonly known as: Bactroban
+Page 13, Line 24: triamcinolone 0.1 % cream
+Page 13, Line 25: Commonly known as: Kenalog
+Page 13, Line 26: turmeric-turmeric ext-pepper 500-3 mg
+Page 13, Line 27: capsule
+Page 13, Line 28: STOP taking these medications
+Page 13, Line 29: dilTIAZem 30 mg immediate release tablet
+Page 13, Line 30: Commonly known as: Cardizem
+Page 13, Line 31: Replaced by: dilTIAZem CD 240 mg 24 hr capsule
+Page 13, Line 32: enalapril 20 mg tablet
+Page 13, Line 33: Commonly known as: Vasotec
+Page 13, Line 34: Where to Get Your Medications
+Page 13, Line 35: <!-- PageFooter="Printed by Interface, Documentation Out [INTF334100] at
+Page 13, Line 36: 22 9:29 AM" -->
+Page 14, Line 1: MRN:
+Page 14, Line 2: Adm:
+Page 14, Line 3: 2022, D/C:
+Page 14, Line 4: 2022
+Page 14, Line 5: DOB:
+Page 14, Line 6: 1935, Sex: F
+Page 14, Line 7: Discharge Summary by Johnna R Breier, NP at
+Page 14, Line 8: 2022 3:34 PM (continued)
+Page 14, Line 9: <!-- FigureContent="These medications were sent to
+Page 14, Line 10: NY -
+Page 14, Line 11: NY
+Page 14, Line 12: Phone:" -->
+Page 14, Line 13: · dilTIAZem CD 240 mg 24 hr capsule
+Page 14, Line 14: · metoprolol succinate 100 mg 24 hr tablet
+Page 14, Line 15: Exam
+Page 14, Line 16: Blood pressure 110/68, pulse (!) 130, temperature 36 ℃ (96.8 °F), temperature source Temporal, resp. rate 18,
+Page 14, Line 17: height 1.549 m (5' 0.98"), weight 83.1 kg (183 lb 1.6 oz), SpO2 94 %.
+Page 14, Line 18: ## Physical Examination :
+Page 14, Line 19: General appearance: alert and oriented, in no acute distress, comfortable.
+Page 14, Line 20: Head: normocephalic, without obvious abnormality, atraumatic
+Page 14, Line 21: Neck: no carotid bruit, no JVD, supple, symmetrical, trachea midline
+Page 14, Line 22: Lungs: Clear breath sounds bilaterally, few bibasilar crackles.
+Page 14, Line 23: Heart: irregular rate and rhythm, S1, S2 normal, no murmur, click, rub or gallop
+Page 14, Line 24: Abdomen: soft, non-tender;
+Page 14, Line 25: Extremities: extremities normal, warm and well-perfused; no cyanosis, trace ankle edema present
+Page 14, Line 26: Skin: Skin color, texture, turgor normal. No rashes or lesions visible
+Page 14, Line 27: Neurologic: Grossly normal, Alert, oriented, non-focal
+Page 14, Line 28: Psych: pleasant, cooperative
+Page 14, Line 29: Lab
+Page 14, Line 30: CBC
+Page 14, Line 31: BMP
+Page 14, Line 32: Lab Results
+Page 14, Line 33: Lab Results
+Page 14, Line 34: Component
+Page 14, Line 35: Value
+Page 14, Line 36: Date
+Page 14, Line 37: Component
+Page 14, Line 38: Value
+Page 14, Line 39: Date
+Page 14, Line 40: WBC
+Page 14, Line 41: 10.8
+Page 14, Line 42: /2022
+Page 14, Line 43: GLUCOSE
+Page 14, Line 44: 146 (H)
+Page 14, Line 45: 2022
+Page 14, Line 46: HGB
+Page 14, Line 47: 13.4
+Page 14, Line 48: /2022
+Page 14, Line 49: CALCIUM
+Page 14, Line 50: 8.8
+Page 14, Line 51: 2022
+Page 14, Line 52: HCT
+Page 14, Line 53: 38.8
+Page 14, Line 54: 2022
+Page 14, Line 55: NA
+Page 14, Line 56: 133 (L)
+Page 14, Line 57: 2022
+Page 14, Line 58: MCV
+Page 14, Line 59: 88.2
+Page 14, Line 60: /2022
+Page 14, Line 61: K
+Page 14, Line 62: 3.6
+Page 14, Line 63: 2022
+Page 14, Line 64: PLT
+Page 14, Line 65: 65 (L)
+Page 14, Line 66: /2022
+Page 14, Line 67: CO2
+Page 14, Line 68: 28
+Page 14, Line 69: 2022
+Page 14, Line 70: CL
+Page 14, Line 71: 96 (L)
+Page 14, Line 72: 2022
+Page 14, Line 73: BUN
+Page 14, Line 74: 27
+Page 14, Line 75: 2022
+Page 14, Line 76: CREATININE
+Page 14, Line 77: 0.66
+Page 14, Line 78: 2022
+Page 14, Line 79: Magnesium
+Page 14, Line 80: Date
+Page 14, Line 81: Value
+Page 14, Line 82: Ref
+Page 14, Line 83: Range
+Page 14, Line 84: Status
+Page 14, Line 85: 20 1.7
+Page 14, Line 86: 1.7 - 2.5 Final
+Page 14, Line 87: 22
+Page 14, Line 88: mg/dl
+Page 14, Line 89: <!-- PageFooter="Printed by Interface, Documentation Out [INTF334100] at" -->
+Page 14, Line 90: <!-- PageFooter="/22 9:29 AM" -->
+Page 15, Line 1: MRN:
+Page 15, Line 2: Adm:
+Page 15, Line 3: 2022, D/C:
+Page 15, Line 4: DOB:
+Page 15, Line 5: 1935, Sex: F
+Page 15, Line 6: 2022
+Page 15, Line 7: Discharge Summary by Johnna R Breier, NP at
+Page 15, Line 8: /2022 3:34 PM (continued)
+Page 15, Line 9: Radiology
+Page 15, Line 10: Transthoracic echo (TTE) complete
+Page 15, Line 11: Final Result
+Page 15, Line 12: X-ray chest 1 view 71045
+Page 15, Line 13: Final Result
+Page 15, Line 14: Cardiomegaly with mild vascular congestion and trace
+Page 15, Line 15: left pleural effusion.
+Page 15, Line 16: Reading Location: SR-LICATA
+Page 15, Line 17: Dictated By: Licata, Michael
+Page 15, Line 18: <!-- FigureContent="Dictated Date/Time:
+Page 15, Line 19: 2022 9:16 AM
+Page 15, Line 20: Electronically Signed By: Licata, Michael
+Page 15, Line 21: Signed Date/Time:
+Page 15, Line 22: 2022 9:17 AM" -->
+Page 15, Line 23: Follow-up
+Page 15, Line 24: No future appointments.
+Page 15, Line 25: @DCLABSOTHER@
+Page 15, Line 26: . Primary Care Provider: Within 1-2 weeks of discharge. Please schedule appointment prior to
+Page 15, Line 27: discharge.
+Page 15, Line 28: . Please send copy of this discharge summary to patient's primary care physician upon discharge and
+Page 15, Line 29: provide to patient.
+Page 15, Line 30: Total time spent on discharge: 35 minutes
+Page 15, Line 31: Breier, Johnna R, NP
+Page 15, Line 32: <!-- PageFooter="Printed by Interface, Documentation Out [INTF334100] at
+Page 15, Line 33: 22 9:29 AM" -->
+Page 16, Line 1: <!-- FigureContent="MRN:
+Page 16, Line 2: Adm:
+Page 16, Line 3: 2022, D/C:
+Page 16, Line 4: /2022
+Page 16, Line 5: DOB:
+Page 16, Line 6: 1935, Sex: F" -->
+Page 16, Line 7: Discharge Summary by Johnna R Breier, NP at
+Page 16, Line 8: 2022 3:34 PM (continued)
+Page 16, Line 9: Chart Correction History
+Page 16, Line 10: Action
+Page 16, Line 11: User
+Page 16, Line 12: Date/Time
+Page 16, Line 13: Reason
+Page 16, Line 14: Details
+Page 16, Line 15: Note Type Change
+Page 16, Line 16: Deanna White, OTA
+Page 16, Line 17: 2022 9:29 AM
+Page 16, Line 18: -
+Page 16, Line 19: Changed from
+Page 16, Line 20: Progress Notes.
+Page 16, Line 21: <!-- PageFooter="Printed by Interface, Documentation Out [INTF334100] at
+Page 16, Line 22: 22 9:29 AM" -->
+Page 17, Line 1: Phone: (716) 710-8266
+Page 17, Line 2: 705 Maple Road, Suite 300
+Page 17, Line 3: Maple West Medical Building
+Page 17, Line 4: Amherst, New York 14221
+Page 17, Line 5: <!-- FigureContent="GREAT LAKES
+Page 17, Line 6: CARDIOVASCULAR
+Page 17, Line 7: A GENERAL PHYSICIAN, PC PRACTICE" -->
+Page 17, Line 8: Fax: (716) 710-8267
+Page 17, Line 9: 5959 Big Tree Road, Suite 102
+Page 17, Line 10: Brookbridge Medical Campus
+Page 17, Line 11: Orchard Park, New York 14127
+Page 17, Line 12: ## Holter Monitor Interpretation and Impression Report
+Page 17, Line 13: <!-- FigureContent="Name:
+Page 17, Line 14: DOB:
+Page 17, Line 15: /1935
+Page 17, Line 16: DOS:
+Page 17, Line 17: 2022 -
+Page 17, Line 18: 12022
+Page 17, Line 19: Age:
+Page 17, Line 20: Referring Dr: Lisa Hoffman, MD" -->
+Page 17, Line 21: Sex: female Ht:
+Page 17, Line 22: Wt:
+Page 17, Line 23: Indication: Unspecified atrial fibrillation
+Page 17, Line 24: Impression: Holter showed atrial fibrillation throughout study. The heart rate range is 64-119bpm with an average hr of
+Page 17, Line 25: 84bpm. There were 26 isolated PVCs No VT or significant pause. No symptoms.
+Page 17, Line 26: Electronically signed by Laura Ford-Mukkamala, DO on
+Page 17, Line 27: 2022 at 9:25 pm
+Page 17, Line 28: CC: Lisa Hoffman MD
+Page 17, Line 29: Nurse Orchard Park
+Page 17, Line 30: Report Data: Data Holter Interpret
+Page 17, Line 31: 100 High Street, 2nd Floor B
+Page 17, Line 32: Buffalo General Medical Center
+Page 17, Line 33: Buffalo New York 14203
+Page 17, Line 34: 571 10th Street, Floor 2
+Page 17, Line 35: Niagara Memorial Medical Center
+Page 17, Line 36: Niagara Falls, New York 14301
+Page 17, Line 37: www.gppconline.com
+Page 18, Line 1: <!-- FigureContent="GREAT LAKES
+Page 18, Line 2: CARDIOVASCULAR" -->
+Page 18, Line 3: Dr. Laura Ford-Mukkamala, DO
+Page 18, Line 4: 5959 Big Tree Rd.
+Page 18, Line 5: Orchard Park, NY 14127-2291
+Page 18, Line 6: Phone:716-710-8266
+Page 18, Line 7: Fax: 716-508-8825
+Page 18, Line 8: <!-- FigureContent="2022" -->
+Page 18, Line 9: Lisa Hoffman, MD
+Page 18, Line 10: 1026 Union Road
+Page 18, Line 11: West Seneca, NY 14224
+Page 18, Line 12: <!-- FigureContent="RE:
+Page 18, Line 13: DOB:
+Page 18, Line 14: 1935" -->
+Page 18, Line 15: Dear Dr. Hoffman,
+Page 18, Line 16: CC: Patient presents for follow-up visit.
+Page 18, Line 17: HPI: I had the pleasure of evaluating
+Page 18, Line 18: at your kind request. As you know, she is a
+Page 18, Line 19: yr
+Page 18, Line 20: old female with a history of atrial flutter/fibrillation, hypertension, hyperlipidemia. She had been admitted
+Page 18, Line 21: to BGH end of September for AF/RVR. Her BNP at that time was elevated 1106, echo with EF 55%,
+Page 18, Line 22: moderate LAE, but converted to sinus rhythm with meds.
+Page 18, Line 23: She was discharged from Mercy for AF/RVR. Echo was done
+Page 18, Line 24: (22 with an EF of 55-60% and showed
+Page 18, Line 25: mild LVH, moderate LAE. Her BNP was elevated and she had pedal edema and bibasilar rales,
+Page 18, Line 26: diagnosed with diastolic heart failure. According to her note from Mercy she was only taking her
+Page 18, Line 27: Cardizem prn. She is now discharged on 100mg of metoprolol and 240mg of Cardizem.
+Page 18, Line 28: Since discharge, she feels better. Breathing is mostly better ,but still dyspneic if she pushes herself. No
+Page 18, Line 29: palpitations. No edema. She had chest tightness with the AF/RVR. None since then. No stress test
+Page 18, Line 30: performed at this juncture. No dizziness or syncope.
+Page 18, Line 31: BPs at home the past couple days are running 150/85 with hr 104 yesterday and at night was 80bpm.
+Page 18, Line 32: This am her hr was 79.
+Page 18, Line 33: She takes her metoprolol and diltiazem all in the am.
+Page 18, Line 34: Prior to admission, she was going to the senior center 2 days a week for an hour with the bands, chair
+Page 18, Line 35: exercises, moving and yoga. A few weeks ago, she could walk through the house and not feel short of
+Page 18, Line 36: breath like she does now She is sleeping fine.
+Page 18, Line 37: FH: 4 older brothers, one living at
+Page 18, Line 38: yo.FH HPL, heart disease. One had an MI, another had heart
+Page 18, Line 39: issues. Father died of an MI at
+Page 18, Line 40: yo. Mother died of leukemia.
+Page 19, Line 1: ## Medications:
+Page 19, Line 2: Diltiazem HCL 30 mg take 1 tab by mouth as needed for a-fib symptoms, can take another 1 tab
+Page 19, Line 3: 30 minutes later if still symptoms
+Page 19, Line 4: Hydrochlorothiazide 25 mg 1 by mouth every day
+Page 19, Line 5: Metoprolol Succinate ER 100 mg 1 1/2 tablet by mouth every day
+Page 19, Line 6: Eliquis 5 mg 1 by mouth twice a day
+Page 19, Line 7: Lipitor 40 mg 1 by mouth every day
+Page 19, Line 8: Cymbalta 60 mg 1 by mouth every day
+Page 19, Line 9: Turmeric Curcumin once daily
+Page 19, Line 10: Vitamin B + C Complex 1 by mouth every day
+Page 19, Line 11: Vitamin D3 25 mcg (1000 Ut) 1 by mouth every day
+Page 19, Line 12: Diltiazem HCL ER Coated Beads 240 mg 1 by mouth every day. Take at night,.
+Page 19, Line 13: Plaquenil 200 mg 1 by mouth every day
+Page 19, Line 14: ## Allergies: NKDA
+Page 19, Line 15: PMH:
+Page 19, Line 16: Problem List: Atrial fibrillation, Hyperlipidemia, Hypertensive disorder, Chronic diastolic heart failure
+Page 19, Line 17: Health Maintenance:
+Page 19, Line 18: Holter Monitor - (
+Page 19, Line 19: 72022)
+Page 19, Line 20: EKG -
+Page 19, Line 21: 2022)
+Page 19, Line 22: ECHO -
+Page 19, Line 23: /2022)
+Page 19, Line 24: ECHO -
+Page 19, Line 25: /2021)
+Page 19, Line 26: Medical Problems:
+Page 19, Line 27: Atrial Fibrillation
+Page 19, Line 28: Hyperlipidemia
+Page 19, Line 29: Hypertension
+Page 19, Line 30: Keratoacanthoma Of Skin
+Page 19, Line 31: Surgical Hx:
+Page 19, Line 32: Skin Surgeries, Knee Replacement
+Page 19, Line 33: (Cardiac Risk Factors)
+Page 19, Line 34: Cardiac Testing:
+Page 19, Line 35: <!-- FigureContent="Monitor - (
+Page 19, Line 36: 2022)
+Page 19, Line 37: EKG -
+Page 19, Line 38: [022)
+Page 19, Line 39: Echocardiogram -
+Page 19, Line 40: 2022)
+Page 19, Line 41: BMP -
+Page 19, Line 42: (2022)
+Page 19, Line 43: EKG -
+Page 19, Line 44: 2021)
+Page 19, Line 45: Echocardiogram -
+Page 19, Line 46: /2021)" -->
+Page 19, Line 47: EKG
+Page 19, Line 48: Cardiac Procedures:
+Page 19, Line 49: None
+Page 19, Line 50: Reviewed, no changes.
+Page 19, Line 51: ROS:
+Page 19, Line 52: Const: Denies fatigue and other constitutional symptoms.
+Page 19, Line 53: Eyes: Denies change in vision.
+Page 19, Line 54: ENMT: Denies mouth or throat symptoms.
+Page 19, Line 55: CV: As per HPI
+Page 19, Line 56: Resp: Denies cough and wheezing.
+Page 19, Line 57: GI: Denies diarrhea, nausea and vomiting.
+Page 19, Line 58: GU: Denies dysuria, hematuria and polyuria.
+Page 19, Line 59: Musculo: Denies arthritis and muscle aches.
+Page 19, Line 60: Skin: Denies skin changes.
+Page 19, Line 61: Neuro: Denies focal weakness.
+Page 19, Line 62: Endocrine: Denies goiter and thyroid problems.
+Page 19, Line 63: Hema/Lymph: Denies anemia, bleeding and easy bruising.
+Page 20, Line 1: Ht: 61" Ht cm: 154.9 Wt: 181lb 2oz Wt kg: 82.158 BMI: 34.2 BSA: 1.81 IBW: 105 BP: 134/72 Pulse: 79
+Page 20, Line 2: O2SatR: 97 Repeat bp on the right 96/60 and left 84/ systolic
+Page 20, Line 3: Exam:
+Page 20, Line 4: Head/Face: Atraumatic on inspection.
+Page 20, Line 5: Eyes: Conjunctivae: Conjunctivae pink. No xanthelasmas of the upper and lower lids.
+Page 20, Line 6: ENMT: Oropharynx moist; gum line normal.
+Page 20, Line 7: Neck: Supple. Jugular venous pressure is normal. Carotids: no bruits bilaterally.
+Page 20, Line 8: Resp: Clear to auscultation bilaterally. No rales or wheezes appreciated over the lungs bilaterally.
+Page 20, Line 9: CV: PMI is normal in the left MCL. Rate is regular. Rhythm is regular. S1 is normal. S2 is normal.
+Page 20, Line 10: No S3 or S4. No heart murmur appreciated. Pedal pulses are normal bilaterally.
+Page 20, Line 11: Abdomen: Soft, nondistended, nontender. Bowel sounds are normoactive. No abdominal bruits, no
+Page 20, Line 12: pulsatile masses, no femoral bruits.
+Page 20, Line 13: Musculo: Upper Extremities: No clubbing, cyanosis or edema of the upper extremities bilaterally.
+Page 20, Line 14: Lower Extremities: No clubbing, cyanosis or edema of the lower extremities bilaterally.
+Page 20, Line 15: Skin: Skin is warm and dry.
+Page 20, Line 16: Neuro: Speech is clear. No facial asymmetry and good hand grip.
+Page 20, Line 17: Assessment #1: 148.91 Unspecified atrial fibrillation
+Page 20, Line 18: Care Plan:
+Page 20, Line 19: Order
+Page 20, Line 20: : 24 Hour Holter Monitor
+Page 20, Line 21: Follow Up
+Page 20, Line 22: : Holter next week.
+Page 20, Line 23: Please give portal information.
+Page 20, Line 24: f/u in 1 month with Courtney
+Page 20, Line 25: Recommendations: Change the metoprolol to morning and take the diltiazem in the evenings.
+Page 20, Line 26: Watch the blood pressures, and if they are borderline or low, then hold
+Page 20, Line 27: hydrochlorothiazide.
+Page 20, Line 28: Assessment #2: 110 Essential (PRIMARY) hypertension
+Page 20, Line 29: Care Plan:
+Page 20, Line 30: Assessment #3: E78.5 Hyperlipidemia, unspecified
+Page 20, Line 31: Care Plan:
+Page 20, Line 32: Assessment #4: 150.32 Chronic diastolic heart failure
+Page 20, Line 33: Care Plan:
+Page 20, Line 34: Assessment #5: Z68.34 Body mass index [BMI] 34.0-34.9, adult
+Page 20, Line 35: Care Plan:
+Page 20, Line 36: Impression: This is an
+Page 20, Line 37: yo female with history of PAF, diastolic heart failure, now hospitalized for
+Page 20, Line 38: recurrence recently at Mercy. Her diltiazem and metoprolol were both increased. She also has
+Page 20, Line 39: hypertension and hyperlipidemia.
+Page 20, Line 40: Recommendations:
+Page 20, Line 41: Holter x 24 hours, change the timing for medications. She was drinking more water in the hospital.
+Page 20, Line 42: Will have her f/u in a month. Track BPs twice a day and they will hold HCTZ if bp is low.
+Page 21, Line 1: The patient's chronic problems were noted during the encounter and considered in
+Page 21, Line 2: the medical management. Some of these conditions are being managed by another
+Page 21, Line 3: provider(s).
+Page 21, Line 4: Any problems, questions or concerns between visits, she is instructed to call our office. Thank you for
+Page 21, Line 5: allowing me to see your patient in follow-up.
+Page 21, Line 6: Electronically signed by Laura Ford-Mukkamala, DO on 0
+Page 21, Line 7: 2022 at 9:33 pm
+Page 21, Line 8: CC: Lisa Hoffman MD
+Page 21, Line 9: Nurse Orchard Park
+Page 21, Line 10: Due to COVID-19 PPE is being utilized to facilitate this encounter.
+Page 22, Line 1: <!-- FigureContent="GREAT LAKES
+Page 22, Line 2: CARDIOVASCULAR" -->
+Page 22, Line 3: KELLY A PIETRZAK, ANP-BC
+Page 22, Line 4: 5959 Big Tree Rd, Suite 102
+Page 22, Line 5: Orchard Park, NY 14127-2291
+Page 22, Line 6: Phone:716-710-8266
+Page 22, Line 7: Fax: 716-508-8825
+Page 22, Line 8: 2022
+Page 22, Line 9: Lisa Hoffman, MD
+Page 22, Line 10: 1026 Union Road
+Page 22, Line 11: West Seneca, NY 14224
+Page 22, Line 12: <!-- FigureContent="RE:
+Page 22, Line 13: DOB:
+Page 22, Line 14: 1935" -->
+Page 22, Line 15: Dear Dr. Hoffman,
+Page 22, Line 16: CC: Patient presents for follow-up visit.
+Page 22, Line 17: HPI: As you know,
+Page 22, Line 18: is a
+Page 22, Line 19: yr old White female with history of atrial flutter/fibrillation,
+Page 22, Line 20: hypertension, hyperlipidemia. She comes in today at the request of her primary care physician. It
+Page 22, Line 21: appears as though that her shortness of breath continues to increase in frequency and severity. She has
+Page 22, Line 22: been attempting to do cardiac rehab however since starting she has progressively developed some
+Page 22, Line 23: worsening shortness of breath. During rehab, they checked an O2 saturation and was noted to be below
+Page 22, Line 24: 90% and she was advised that she may need oxygen therapy. She was then evaluated by her primary
+Page 22, Line 25: care physician's office and was told that she may have pulmonary fibrosis and require oxygen therapy
+Page 22, Line 26: although she was not prescribed any thus far. She states that while being evaluated there she was told
+Page 22, Line 27: that her lung sounds resembled Velcro. She was then advised to move up her appointment with
+Page 22, Line 28: cardiology.
+Page 22, Line 29: She now comes in with her family. She states that her shortness of breath first developed back in
+Page 22, Line 30: September when she was hospitalized for atrial fibrillation and continues to progress. While she did
+Page 22, Line 31: smoke cigarettes in the past she quit over 50 years ago. She does not have any environmental
+Page 22, Line 32: exposures she is aware of. Her shortness of breath appears to be mostly exertional. She denies any
+Page 22, Line 33: chest discomfort, orthopnea, edema, palpitations, dizziness, near syncope or syncopal episodes. Denies
+Page 22, Line 34: any productive cough. She denies any fevers or chills. Prior to her hospitalization September she does
+Page 22, Line 35: not remember having any sort of shortness of breath.
+Page 22, Line 36: Medications:
+Page 22, Line 37: Cymbalta 60 mg 1 by mouth every day
+Page 22, Line 38: Diltiazem HCL 30 mg take 1 tab by mouth as needed for a-fib symptoms, can take another 1 tab 30
+Page 22, Line 39: minutes later if still symptoms
+Page 23, Line 1: Diltiazem HCL ER Coated Beads 240 mg 1 capsule by mouth every day (take at night)
+Page 23, Line 2: Eliquis 5 mg 1 by mouth twice a day
+Page 23, Line 3: Hydrochlorothiazide 25 mg take 1.5 tablets by mouth every day
+Page 23, Line 4: Lipitor 40 mg 1 by mouth every day
+Page 23, Line 5: Metoprolol Succinate ER 100 mg 1 1/2 by mouth every day
+Page 23, Line 6: Plaquenil 200 mg 1 by mouth every day
+Page 23, Line 7: Turmeric Curcumin once daily
+Page 23, Line 8: Vitamin B + C Complex 1 by mouth every day
+Page 23, Line 9: Vitamin D3 25 mcg (1000 Ut) 1 by mouth every day
+Page 23, Line 10: Allergies: NKDA
+Page 23, Line 11: PMH:
+Page 23, Line 12: Problem List: Atrial fibrillation, Hyperlipidemia, Hypertensive disorder, Chronic diastolic heart failure
+Page 23, Line 13: Health Maintenance:
+Page 23, Line 14: HgbA1C -
+Page 23, Line 15: 2022)
+Page 23, Line 16: Holter Monitor - (
+Page 23, Line 17: 2022)
+Page 23, Line 18: EKG - (
+Page 23, Line 19: /2022)
+Page 23, Line 20: ECHO - (
+Page 23, Line 21: 2022)
+Page 23, Line 22: ECHO - (
+Page 23, Line 23: (2021)
+Page 23, Line 24: Medical Problems:
+Page 23, Line 25: Atrial Fibrillation
+Page 23, Line 26: Hyperlipidemia
+Page 23, Line 27: Hypertension
+Page 23, Line 28: Keratoacanthoma Of Skin
+Page 23, Line 29: Surgical Hx:
+Page 23, Line 30: Skin Surgeries, Knee Replacement
+Page 23, Line 31: (Cardiac Risk Factors)
+Page 23, Line 32: Cardiac Testing:
+Page 23, Line 33: <!-- FigureContent="CMP -
+Page 23, Line 34: /2022)
+Page 23, Line 35: BMP -
+Page 23, Line 36: 2022)
+Page 23, Line 37: HGA1C - ( /2022)
+Page 23, Line 38: Holter Monitor -
+Page 23, Line 39: V2022)
+Page 23, Line 40: EKG -
+Page 23, Line 41: [022)
+Page 23, Line 42: Echocardiogram -
+Page 23, Line 43: 2022)
+Page 23, Line 44: BMP -
+Page 23, Line 45: /2022)
+Page 23, Line 46: EKG - (
+Page 23, Line 47: /2021)
+Page 23, Line 48: Echocardiogram -
+Page 23, Line 49: /2021)
+Page 23, Line 50: EKG" -->
+Page 23, Line 51: Cardiac Procedures:
+Page 23, Line 52: None
+Page 23, Line 53: Reviewed, no changes.
+Page 23, Line 54: FH:
+Page 23, Line 55: Father:
+Page 23, Line 56: . (Hx) Deceased due to Heart Attack.
+Page 23, Line 57: Mother:
+Page 23, Line 58: . (Hx) Deceased due to Leukemia.
+Page 23, Line 59: Children:4
+Page 23, Line 60: Siblings:4.
+Page 23, Line 61: Reviewed, no changes.
+Page 23, Line 62: SH:
+Page 23, Line 63: Marital: Married.Occupation: Homemaker.
+Page 23, Line 64: Personal Habits: Tobacco Use: Tobacco Non-User - ((2022).Cigarette Use: Quit.Cigars: Never
+Page 23, Line 65: Smoked Cigars.Pipe: Never Smoked A Pipe.Smokeless Tobacco: Never Used Smokeless
+Page 23, Line 66: Tobacco.Alcohol: Denies alcohol use.Drug Use: Denies Drug Use.Daily Caffeine: Rarely
+Page 23, Line 67: consumes Caffeine, Comsumes on average 1 cup of decaff coffee per day, Decaf Tea.
+Page 24, Line 1: Reviewed, no changes.
+Page 24, Line 2: I personally reviewed the past medical, surgical, family, and social history and there are no changes.
+Page 24, Line 3: ROS:
+Page 24, Line 4: Const: Denies fever or chills, fatigue, unexplained weight gain or loss and other constitutional symptoms.
+Page 24, Line 5: Eyes: Denies change in vision.
+Page 24, Line 6: ENMT: Denies sore throat, post-nasal drip
+Page 24, Line 7: CV: As per HPI
+Page 24, Line 8: Resp: Denies cough, hemoptysis, and wheezing.
+Page 24, Line 9: GI: Denies abdominal discomfort, diarrhea, nausea and vomiting.
+Page 24, Line 10: GU: Denies dysuria, hematuria and polyuria.
+Page 24, Line 11: Musculo: Denies arthritis and muscle aches.
+Page 24, Line 12: Skin: Denies skin changes, rashes or lesions.
+Page 24, Line 13: Neuro: Denies focal weakness.
+Page 24, Line 14: Endocrine: Denies goiter and thyroid problems.
+Page 24, Line 15: Hema/Lymph: Denies anemia, bleeding and easy bruising.
+Page 24, Line 16: Ht: 61" 5'1" Ht cm: 154.9 Wt: 173lb Wt Prior: 176lb as of
+Page 24, Line 17: (22 Wt Dif: - 3lb Wt kg: 78.473 Wt kg
+Page 24, Line 18: Prior: 79.834 as of (
+Page 24, Line 19: 22 Wt kg Dif: - 1.361 BMI: 32.7 BSA: 1.78 IBW: 105 BP: 130/80 Pulse: 88
+Page 24, Line 20: O2SatR: 98
+Page 24, Line 21: Exam:
+Page 24, Line 22: Const: Appears healthy and well developed.
+Page 24, Line 23: Head/Face: Atraumatic on inspection.
+Page 24, Line 24: Eyes: Conjunctivae: Conjunctivae pink. No xanthelasmas of the upper and lower lids.
+Page 24, Line 25: ENMT: Oropharynx moist; gum line normal.
+Page 24, Line 26: Neck: Supple. No JVD or Bruits noted
+Page 24, Line 27: Resp: Clear to auscultation bilaterally. No rales or wheezes appreciated over the lungs bilaterally. Clear
+Page 24, Line 28: to auscultation. No adventitious sounds noted.
+Page 24, Line 29: CV: PMI is normal in the left MCL. Irreg reg, S1 is normal. S2 is normal. No S3 or S4. No heart murmur
+Page 24, Line 30: appreciated. Pedal pulses are normal bilaterally. Extremities are warm, well perfused with no edema
+Page 24, Line 31: noted.
+Page 24, Line 32: Abdomen: Soft, nondistended, nontender, no hepatomegaly. Bowel sounds are normoactive. No
+Page 24, Line 33: abdominal bruits, no pulsatile masses, no femoral bruits.
+Page 24, Line 34: Musculo: Upper Extremities: No clubbing, cyanosis or edema of the upper extremities bilaterally. Lower
+Page 24, Line 35: Extremities: No clubbing, cyanosis or edema of the lower extremities bilaterally.
+Page 24, Line 36: Skin: Skin is warm and dry.
+Page 24, Line 37: Neuro: Speech is clear. No facial asymmetry and good hand grip, no focal deficits
+Page 24, Line 38: Echocardiogram from January 2022 revealed a left ventricular systolic function that was normal with an
+Page 24, Line 39: ejection fraction of 55 to 60%. Ventricle shows mild concentric hypertrophy, the left atrium is moderately
+Page 24, Line 40: dilated. The right ventricular systolic function is normal. The aortic valve is normal in structure with
+Page 24, Line 41: normal leaflet excursion. There is mild tricuspid regurgitation. There is a trivial pericardial effusion. The
+Page 24, Line 42: left ventricular wall motion is considered normal.
+Page 24, Line 43: Holter 1/22:
+Page 24, Line 44: Holter showed atrial fibrillation throughout study. The heart rate range is 64-119bpm with an average hr
+Page 24, Line 45: of 84bpm. There were 26 isolated PVCs No VT or significant pause. No symptoms.
+Page 24, Line 46: Assessment #1: R06.02 Shortness of breath
+Page 24, Line 47: Care Plan:
+Page 25, Line 1: Comments
+Page 25, Line 2: DI
+Page 25, Line 3: : I was able to ambulate her with an O2 saturation monitor on. Her oxygen level
+Page 25, Line 4: stayed well above the 95% range the entire time and her heart rate peaked at 91
+Page 25, Line 5: bpm. Clinically she did look a bit short of breath with ambulation. On exam she
+Page 25, Line 6: does not appear to be in overt congestive heart failure. Her symptoms seem to have
+Page 25, Line 7: started when she was first diagnosed with atrial fibrillation so that in itself may be the
+Page 25, Line 8: potential cause of her shortness of breath. Holter monitor performed a few months
+Page 25, Line 9: back did reveal a controlled ventricular response and therefore titrating up her
+Page 25, Line 10: medications may not be very beneficial to her. She also has not had an ischemic
+Page 25, Line 11: evaluation in quite some time. Therefore, we will perform a Lexiscan stress test as
+Page 25, Line 12: she is unable to walk on an incline on a treadmill due to arthritic knees and knee
+Page 25, Line 13: replacements and if negative for ischemia we will consider electrophysiology
+Page 25, Line 14: evaluation to address her atrial fibrillation. She also has a pulmonology consultation
+Page 25, Line 15: coming up in the next few weeks.
+Page 25, Line 16: : Cardiac Nuclear Stress - Lexiscan
+Page 25, Line 17: Assessment #2: 148.19 Other persistent atrial fibrillation
+Page 25, Line 18: Care Plan:
+Page 25, Line 19: Comments
+Page 25, Line 20: : Holter monitor in January showed a controlled ventricular response, she remains on
+Page 25, Line 21: Eliquis for embolic protection and an elevated CHA2DS2-VASc score. She does not
+Page 25, Line 22: report any bleeding issues.
+Page 25, Line 23: Assessment #3: 150.32 Chronic diastolic heart failure
+Page 25, Line 24: Care Plan:
+Page 25, Line 25: Comments
+Page 25, Line 26: : Euvolemic on exam, maintained on hydrochlorothiazide.
+Page 25, Line 27: Assessment #4: 110 Essential (PRIMARY) hypertension
+Page 25, Line 28: Care Plan:
+Page 25, Line 29: Comments
+Page 25, Line 30: : Stable on exam.
+Page 25, Line 31: Assessment #5: E78.5 Hyperlipidemia, unspecified
+Page 25, Line 32: Care Plan:
+Page 25, Line 33: Comments
+Page 25, Line 34: : Currently on atorvastatin 40 mg p.o. daily and tolerating well.
+Page 25, Line 35: Plan Other:
+Page 25, Line 36: Pat Edu
+Page 25, Line 37: : Nuclear Stress Test- Instrucns, Nuclear Stress Test- Instrucns
+Page 25, Line 38: Pertinent cardiac warning signs and symptoms were reviewed and they know to contact us back sooner
+Page 25, Line 39: should concerns arise otherwise I will plan to see her back as scheduled.
+Page 25, Line 40: Some of the patient's chronic comorbidities are being managed by other providers. These problems are
+Page 25, Line 41: being considered while determining the plan of care.
+Page 25, Line 42: Thank you for allowing us to participate in the care of this patient, feel free to contact us is should you
+Page 25, Line 43: have any questions or concerns.
+Page 25, Line 44: Kelly Pletigal
+Page 25, Line 45: Electronically signed by Kelly A Pietrzak, ANP-BC on
+Page 25, Line 46: 2022 at 10:09 am
+Page 26, Line 1: CC: Ford-Mukkamala, Laura, DO
+Page 26, Line 2: Lisa Hoffman MD
+Page 26, Line 3: Due to COVID-19 PPE is being utilized to facilitate this encounter.
+Page 27, Line 1: <!-- PageHeader="5/13/2022 4:19 PM FROM: Fax Pulmonary Group of WNY TO: 7120853
+Page 27, Line 2: PAGE: 002 OF 004" -->
+Page 27, Line 3: 1935, Account No:
+Page 27, Line 4: <!-- PageHeader="Patient Name:" -->
+Page 27, Line 5: DOB:
+Page 27, Line 6: <!-- FigureContent="The Pulmonary Group of WNY, L.L.P." -->
+Page 27, Line 7: <!-- FigureContent="Y old Female, DOB:
+Page 27, Line 8: h1935
+Page 27, Line 9: Account Number:
+Page 27, Line 10: NY -!
+Page 27, Line 11: Guarantor:
+Page 27, Line 12: Insurance: 1
+Page 27, Line 13: Home:7
+Page 27, Line 14: PCP: Lisa Hoffman, MD
+Page 27, Line 15: Referring: Lisa Hoffman, MD
+Page 27, Line 16: Appointment Facility: Pulmonary Group of WNY" -->
+Page 27, Line 17: Progress Notes: Anthony D. Freundel, M.D, FCCP
+Page 27, Line 18: 2022
+Page 27, Line 19: ## Reason for Appointment
+Page 27, Line 20: 1. I have shortness of breath
+Page 27, Line 21: ## History of Present Illness
+Page 27, Line 22: :
+Page 27, Line 23: Dr. Hoffman,
+Page 27, Line 24: Thank you for referring
+Page 27, Line 25: for evaluation. She has complaints of ongoing dyspnea. She has a history A Fib, CHF. Patient is a
+Page 27, Line 26: former smoker, quit 50 years ago, smoked for about 20 years, and smoked 0.5ppd or less. She denies any history of asthma. Denies history of
+Page 27, Line 27: asbestos exposure or TB. Denies historyof Covid or other lung illness. Denies any history of autoimmune disease, or Rheumatoid arthritis.
+Page 27, Line 28: Denies any history of recent pneumonia. She is fullyvaccinates against covid with booster.
+Page 27, Line 29: Her dyspnea started in September, after having two episodes of A Fib which required hospitalization. She did not receive any ablations or
+Page 27, Line 30: procedures, just adjustment in medications. She follows with Dr. Ford, Great lakes cardiology. She states she had a recent nuclear stress test
+Page 27, Line 31: that was normal. She reports a history of heart failure. Will request cardiology records.
+Page 27, Line 32: She has dyspnea on exertion, especially with stairs. She denies anywheezing. She denies any symptoms of chest tightness. She has
+Page 27, Line 33: occasional cough that she attributes to PND. She does not take any medications for her sinuses. She had some leg swelling a few months
+Page 27, Line 34: ago, diuretics were increased which helped.
+Page 27, Line 35: She wears 02 as needed during the day, 2L. She states she had a recent overnight oximetry with PrO2. She states she had a recent CXR
+Page 27, Line 36: but is unsure if there are anyfindings.
+Page 27, Line 37: She states she has a history of anemia. Plans to see Dr. Cheng next week. Bloodwork 1/2022 without anemia.
+Page 27, Line 38: Current Medications
+Page 27, Line 39: Taking
+Page 27, Line 40: . Vitamin B Complex - Capsule as directed Orally
+Page 27, Line 41: . Lipitor 40 MG Tablet 1 tablet Orally Once a day
+Page 27, Line 42: . Metoprolol Succinate ER 100 MG Tablet Extended Release 24 Hour 1 1/2 tablet Orally Once a day
+Page 27, Line 43: · Vitamin D3 50 MCG (2000 UT) Capsule 1 capsule Orally Once a day
+Page 27, Line 44: · Turmeric Curcumin - Capsule as directed Orally
+Page 27, Line 45: · Vitamin C 500 MG Capsule as directed Orally
+Page 27, Line 46: . Fish Oil 1200 MG Capsule 1 capsule Orally Once a day
+Page 27, Line 47: · hydroCHLOROthiazide
+Page 27, Line 48: · Diltiazem HCI CD
+Page 27, Line 49: · Cymbalta 60 MG Capsule Delayed Release Particles 1 capsule Orally Once a day
+Page 27, Line 50: · Eliquis 5 MG Tablet as directed Orally
+Page 27, Line 51: Medication List reviewed and reconciled with the patient
+Page 27, Line 52: Past Medical History
+Page 27, Line 53: Atrial Fibrillation.
+Page 27, Line 54: CHF.
+Page 27, Line 55: Sjrogen's .
+Page 27, Line 56: Surgical History
+Page 27, Line 57: Denies Past Surgical History
+Page 27, Line 58: Family History
+Page 27, Line 59: Father. deceased
+Page 27, Line 60: Mother: deceased
+Page 27, Line 61: 1 brother(s) . 4 daughter(s) .
+Page 27, Line 62: mother-leukemia, father-heart attack, brother-dementia, can't walk, 2 daughters-breast cancer,.
+Page 27, Line 63: Social History
+Page 27, Line 64: Drug/Alcohol:
+Page 27, Line 65: Drugs: No. Alcohol Screen: wine, a couple times a week. Caffeine: None.
+Page 27, Line 66: Tobacco Use:
+Page 27, Line 67: Smoking: Former Smoking quit, 1970.
+Page 27, Line 68: Occupation:
+Page 27, Line 69: Asbestos/Chemical exposure: no.
+Page 27, Line 70: Place of Birth:
+Page 27, Line 71: Place of Birth:
+Page 27, Line 72: Allavains
+Page 27, Line 73: <!-- PageFooter="To: Lisa Hoffman, Subject: Progress Notes," -->
+Page 27, Line 74: <!-- PageFooter="SendDate: May-13-2022 04:18:09, page 1/3 [-ufg2.4.1.2in]" -->
+Page 28, Line 1: <!-- PageHeader="5/13/2022 4:19 PM FROM: Fax Pulmonary Group of WNY TO: 7120853
+Page 28, Line 2: PAGE: 003 OF 004" -->
+Page 28, Line 3: 1935, Account No:
+Page 28, Line 4: Allergies
+Page 28, Line 5: N.K.D.A
+Page 28, Line 6: Hospitalization/Major Diagnostic Procedure
+Page 28, Line 7: afib 2021
+Page 28, Line 8: afib.2022
+Page 28, Line 9: Review of Systems
+Page 28, Line 10: GENERAL:
+Page 28, Line 11: no Chills. no Fever. no Night sweats.
+Page 28, Line 12: ENT:
+Page 28, Line 13: post nasal drip yes, chronic rhinitis. Seasonal Allergies No.
+Page 28, Line 14: CARDIOLOGY:
+Page 28, Line 15: Positive For:
+Page 28, Line 16: two recent hospitalizations for A Fib since September
+Page 28, Line 17: . no Chest pain. no Dizziness. no Palpitations.
+Page 28, Line 18: RESPIRATORY:
+Page 28, Line 19: no wheeze. no sputum. no Cough. no Pain with breathing. Shortness of breath yes, onlywith exertion.
+Page 28, Line 20: HEMATOLOGY/LYMPH:
+Page 28, Line 21: no blood clots. Anemia Yes, following hematology.
+Page 28, Line 22: NEUROLOGY:
+Page 28, Line 23: Negative for any problems.
+Page 28, Line 24: UROLOGY:
+Page 28, Line 25: Negative for any problems.
+Page 28, Line 26: Vital Signs
+Page 28, Line 27: Wt: 172, Ht 5ft 2.5in, BP: 122/76, HR: 72, 02 sat: 92%RA, BM: 30.95.
+Page 28, Line 28: ## Examination
+Page 28, Line 29: Problem focused exam:
+Page 28, Line 30: General Appearance: alert and oriented, in no acute distress. Eyes PERRL, No conjunctivitis. Oral cavity tongue ml, oral mucosa pink, no
+Page 28, Line 31: lesions uvula ml, dentes intact, posterior pharynx without erythema or exudates. Neck supple, no, lymphadenopathy. Chest normal shape and
+Page 28, Line 32: expansion with respiration. Heart: RRR, S1 and S2 normal, No extrasystole or murmurs. Lungs Breath sounds with faint crackles in the bases
+Page 28, Line 33: bilaterally. No wheezing or rhonchi bilaterally .. Abdomen round, positive bowel sounds, soft, non-tender, no organomegaly. Extremities no
+Page 28, Line 34: clubbing, cyanosis or edema. neuro Normal gait, CN II-XII appear intact.
+Page 28, Line 35: ## Physical Examination
+Page 28, Line 36: Laboratory Data:
+Page 28, Line 37: Pulmonary Function Test
+Page 28, Line 38: Moderate restrictive disease. No obstructive disease or response to inhaled bronchodilator response. Flow volume loop appears midlly
+Page 28, Line 39: restrictive in contour. Moderately DLCO indicative of pulmonary parenchymal disease, vascular disease, or anemia.
+Page 28, Line 40: . CT chest I reviewed the CT chest report from
+Page 28, Line 41: V/2019: No mediastinal mass. Mld cardiomegaly, findings suggestive of pulmonary
+Page 28, Line 42: hypertension. Diffuse subpleural fibrotic changes and traction bronchiectasis are noted without defintite honeycombing. Findings may reflect
+Page 28, Line 43: developing UIP/IPF and may be a source of pulmonary hypertension .. Pulse Oximetry Resting Sp02 93% on RA With ambulation of 224ft
+Page 28, Line 44: Sp02 93%. CXR I reviewed the CXR report from
+Page 28, Line 45: 22: Cardiomegaly. Pulmonary vascular congestion. Small left pleural effusion with
+Page 28, Line 46: compressive atelectasic changes at the left base .. Blood work I reviewed the Bloodwork from
+Page 28, Line 47: 22: No anemia. Echocardiogram I
+Page 28, Line 48: reviewed the Echo report from
+Page 28, Line 49: 22: normal LVEF 55-60%. mild concentric hypertrophy, left atrium moderately dilated. RVSP 24mmHg ..
+Page 28, Line 50: Nocturnal Pulse Oximetry SaO2 on RA less than 88% 4.3 minutes, less than or equal to 89% 16 minutes.
+Page 28, Line 51: ### Assessments
+Page 28, Line 52: 1\. Abnormal results of pulmonary function studies - R94.2 (Primary)
+Page 28, Line 53: 2\. Pulmonary fibrosis, unspecified - J84.10
+Page 28, Line 54: 3\. Dyspnea, unspecified - R06.00
+Page 28, Line 55: 4\. Unspecified atrial fibrillation - 148.91
+Page 28, Line 56: 5\. Sicca syndrome, unspecified - M35.00
+Page 28, Line 57: ## Treatment
+Page 28, Line 58: 1\. Abnormal results of pulmonary function studies
+Page 28, Line 59: LAB: sjorgren panel
+Page 28, Line 60: LAB: SCL-70
+Page 28, Line 61: LAB: ESR. ANA ACE Level, Rheumatoid Factor, ANCA
+Page 28, Line 62: IMAGING: Overnight Oximetry on Room Air
+Page 28, Line 63: IMAGING: CT Chest Non-Contrast
+Page 28, Line 64: Notes: She has a moderate restrictive pattern and moderately reduced DLCO. ACT chest report from 2019 was found using Healthelink, which
+Page 28, Line 65: showed diffuse subpleural fibrotic changes and traction bronchiectasis, which may have reflected a UIP/IPF pattern. She needs an updated CT
+Page 28, Line 66: chest to further observe lung parenchyma and follow up on these findings. Will order bloodwork for auto-immune workup.
+Page 28, Line 67: No anemia on bloodwork from 1/2022, no clinical signs of CHF on exam today.
+Page 28, Line 68: <!-- PageFooter="To: Lisa Hoffman, Subject: Progress Notes," -->
+Page 28, Line 69: <!-- PageFooter="SendDate: N
+Page 28, Line 70: 022 04:18:09, page 2/3 [-ufg2.4.1.2in]" -->
+Page 28, Line 71: <!-- PageHeader="Patient Name:
+Page 28, Line 72: DOB" -->
+Page 29, Line 1: <!-- PageHeader="5/13/2022 4:19 PM FROM: Fax Pulmonary Group of WNY TO: 7120853
+Page 29, Line 2: PAGE: 004 OF 004" -->
+Page 29, Line 3: Patient Name:
+Page 29, Line 4: DOB:
+Page 29, Line 5: 935, Account No:
+Page 29, Line 6: Her overnight oximetrywas borderline, I will repeat this study.
+Page 29, Line 7: ## 2\. Pulmonary fibrosis, unspecified
+Page 29, Line 8: LAB: sjorgren panel
+Page 29, Line 9: LAB: SCL-70
+Page 29, Line 10: LAB: ESR. ANA ACE Level, Rheumatoid Factor, ANCA
+Page 29, Line 11: IMAGING: CT Chest Non-Contrast
+Page 29, Line 12: Notes: She had a CT chest scan in 2019 that showed diffuse subpleural fibrotic changes, traction bronchiectasis, likely reflecting UIP/IPF. SHe
+Page 29, Line 13: will have bloodwork to evaluate. She will also need an updated CT chest.
+Page 29, Line 14: ## 3\. Dyspnea, unspecified
+Page 29, Line 15: Notes: She has dyspnea on exertion. Her PFT showed moderate restrictive disease. Pulmonaryfibrosis may be contributing, as well as history
+Page 29, Line 16: of A Fib. He recent Echo in 1/2022 showed normal LVEF, RVSP of 24mmHg. No clinical signs of acute CHF.
+Page 29, Line 17: ## 4\. Unspecified atrial fibrillation
+Page 29, Line 18: Notes: She has a history of A Fib, on Eliquis, follows with Great Lakes Cardiology.
+Page 29, Line 19: ## 5\. Sicca syndrome, unspecified
+Page 29, Line 20: Notes: She reports a history of Sjogren's syndrome. Will check panel, along with auto-immune workup for pulmonaryfibrosis.
+Page 29, Line 21: Procedure Codes
+Page 29, Line 22: 94060 SPIROMETRY (PRE AND POST)
+Page 29, Line 23: 94726 Plethys mography, for determination of lung volumes
+Page 29, Line 24: 94729 Diffus ing capacity
+Page 29, Line 25: Follow Up
+Page 29, Line 26: 4-6 weeks
+Page 29, Line 27: Electronically signed by Anthony Freundel MD, MD on
+Page 29, Line 28: 2022 at 04:17 PM EDT
+Page 29, Line 29: Sign off status: Completed
+Page 29, Line 30: Pulmonary Group of WNY
+Page 29, Line 31: 100 College Parkway
+Page 29, Line 32: Suite 110
+Page 29, Line 33: Williamsville, NY 14221-6885
+Page 29, Line 34: Tel: 716-631-8863
+Page 29, Line 35: Fax: 716-631-1265
+Page 29, Line 36: Progress Note: Anthony D. Freundel, M.D, FCCP 05/13/2022
+Page 29, Line 37: Note generated by eClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+Page 29, Line 38: <!-- PageFooter="To: Lisa Hoffman, Subject: Progress Notes," -->
+Page 29, Line 39: <!-- PageFooter="SendDate:
+Page 29, Line 40: 022 04:18:09, page 3/3 [-ufg2.4.1.2in]" -->
+Page 30, Line 1: <!-- FigureContent="WINDSONG
+Page 30, Line 2: WHERE PATIENTS COME FIRST" -->
+Page 30, Line 3: Windsong Radiology Group, P.C.
+Page 30, Line 4: 55 Spindrift Dr., Williamsville, NY 14221
+Page 30, Line 5: PHONE (716) 631-2500 FAX (716) 631-4051
+Page 30, Line 6: www.windsongwny.com
+Page 30, Line 7: Name:
+Page 30, Line 8: DOB:
+Page 30, Line 9: 1935
+Page 30, Line 10: Ordering Provider: ANTHONY FREUNDEL
+Page 30, Line 11: Exam: CT THORAX WO CONTRAST
+Page 30, Line 12: Exam Date:
+Page 30, Line 13: 22
+Page 30, Line 14: CHEST CT WITHOUT CONTRAST
+Page 30, Line 15: HISTORY: Shortness of breath and remote history of smoking. Pulmonary fibrosis.
+Page 30, Line 16: PROCEDURE: Unenhanced images were obtained through the chest. Coronal reformatted images were generated ..
+Page 30, Line 17: Images were obtained utilizing dose modulated automated exposure control.
+Page 30, Line 18: COMPARISON: 2019 chest CT.
+Page 30, Line 19: LUNGS: Again noted is bilateral subpleural fibrosis with a bibasilar predominance. Low-grade honeycombing is seen in
+Page 30, Line 20: the posterior aspect of the lung bases bilaterally. Overall the changes are subtly progressive since 2019. No developing
+Page 30, Line 21: ground-glass infiltrates are seen. There is no consolidation.
+Page 30, Line 22: There is a 10 x 5 x 11 mm developing density in the left lung in the inferolateral aspect of the anterobasal segment of the
+Page 30, Line 23: left lower lobe along the major fissure which likely represents an area of progressive fibrosis however it is more confluent
+Page 30, Line 24: and nodular than other areas of fibrosis and so monitoring is warranted. Elsewhere there are stable small pulmonary
+Page 30, Line 25: nodules consistent with postinflammatory nodules including a stable 3 mm nodule in the left lung apex and a 7 x 4 mm
+Page 30, Line 26: nodule in the lateral aspect of the anterobasal segment of the left lower lobe.
+Page 30, Line 27: PLEURA: No effusions or pleural mass.
+Page 30, Line 28: NODES: There has been development of a mildly enlarged right lower paratracheal node measuring 14 x 19 mm. It does
+Page 30, Line 29: contain a fatty hilum but is abnormal in size and significantly larger than on the previous study where it measured 6 mm in
+Page 30, Line 30: thickness. A few additional normal size right paratracheal and anterior mediastinal nodes are seen which have also
+Page 30, Line 31: increased in size but are within normal limits. These are likely reactive nodes.
+Page 30, Line 32: BASE OF NECK: Unremarkable.
+Page 30, Line 33: CHEST WALL: Unremarkable.
+Page 30, Line 34: HEART: There is progressive moderate cardiomegaly. There is calcification of the mitral valve or possibly the mitral valve
+Page 30, Line 35: annulus but more likely the mitral valve.
+Page 30, Line 36: VESSELS: Again noted is prominence of the central pulmonary vessels suggesting pulmonary arterial hypertension.
+Page 30, Line 37: ESOPHAGUS: Unremarkable.
+Page 30, Line 38: UPPER ABDOMEN: Again noted is focal atrophy and biliary duct dilatation involving the lateral segment of the left lobe of
+Page 30, Line 39: the liver with several cysts in the lateral segment of the left lobe. There are also a few cysts in the medial segment of the
+Page 30, Line 40: left lobe and these findings are fairly stable. There is a stable 7 mm left renal cyst. Inferior to this is a 19 mm low-density
+Page 30, Line 41: lesion not included on the previous study but likely representing an additional cyst.
+Page 30, Line 42: OTHER FINDINGS: No other significant finding.
+Page 30, Line 43: BONES: Unremarkable.
+Page 30, Line 44: IMPRESSION: THERE HAS BEEN MILD PROGRESSION IN THE PULMONARY FIBROSIS.
+Page 30, Line 45: THERE IS AN APPARENT 10 X 5 X 11 MM DEVELOPING NODULE IN THE LEFT LUNG BASE LIKELY
+Page 30, Line 46: REPRESENTING AN AREA OF MORE CONFLUENT FIBROSIS ALTHOUGH A DEVELOPING NEOPLASM IS NOT
+Page 30, Line 47: EXCLUDED. THIS COULD BE ASSESSED WITH PET/CT OR FOLLOW-UP CHEST CT IMAGING. THE EXTENT OF
+Page 31, Line 1: DOB
+Page 31, Line 2: 935
+Page 31, Line 3: <!-- PageNumber="Page #2" -->
+Page 31, Line 4: SOUTHGATE MEDICAL GROUP, LIP
+Page 31, Line 5: THE WORKUP SHOULD TAKE INTO ACCOUNT THE PATIENT'S AGE AND COMORBIDITIES.
+Page 31, Line 6: L.
+Page 31, Line 7: THERE IS PROGRESSIVE CARDIOMEGALY.
+Page 31, Line 8: AGAIN NOTED ARE HEPATIC CYSTS AS WELL AS FOCAL ATROPHY AND BILIARY DUCT DILATATION IN THE
+Page 31, Line 9: LATERAL SEGMENT OF THE LEFT LOBE OF THE LIVER WHICH IS STABLE IN APPEARANCE AS WELL AS SMALL
+Page 31, Line 10: PROBABLE LEFT RENAL CYSTS.
+Page 31, Line 11: We appreciate the opportunity to serve you.
+Page 31, Line 12: ANTHONY M. FOTI MD
+Page 31, Line 13: /LB
+Page 31, Line 14: LISA HOFFMAN, MD
+Page 31, Line 15: 1026 UNION RD
+Page 31, Line 16: WEST SENECA NY 14224
+Page 31, Line 17: LAURA FORD-MUKKAMALA, DO
+Page 31, Line 18: 5959 BIG TREE RD STE 107
+Page 31, Line 19: ORCHARD PARK NY 14127
+Page 31, Line 20: <!-- FigureContent="Date/Time Dictated:
+Page 31, Line 21: /2022 11:02 AM
+Page 31, Line 22: Date/Time Approved:
+Page 31, Line 23: /2022 04:16 PM
+Page 31, Line 24: SEE NOTES" -->
+Page 32, Line 1: <!-- FigureContent="GREAT LAKES
+Page 32, Line 2: CARDIOVASCULAR" -->
+Page 32, Line 3: Dr. Laura Ford-Mukkamala, DO
+Page 32, Line 4: 5959 Big Tree Rd.
+Page 32, Line 5: Orchard Park, NY 14127-2291
+Page 32, Line 6: Phone:716-710-8266
+Page 32, Line 7: Fax: 716-508-8825
+Page 32, Line 8: 2, 2022
+Page 32, Line 9: Lisa Hoffman, MD
+Page 32, Line 10: 1026 Union Road
+Page 32, Line 11: West Seneca, NY 14224
+Page 32, Line 12: <!-- FigureContent="RE:
+Page 32, Line 13: DOB:
+Page 32, Line 14: 1935" -->
+Page 32, Line 15: Dear Dr. Hoffman,
+Page 32, Line 16: CC: Patient presents for follow-up visit.
+Page 32, Line 17: HPI: I had the pleasure of evaluating
+Page 32, Line 18: at your kind request. As you know, she is a
+Page 32, Line 19: yr
+Page 32, Line 20: old female with a history of atrial flutter/fibrillation, hypertension, hyperlipidemia. She had been admitted
+Page 32, Line 21: to BGH end of September for AF/RVR. Her BNP at that time was elevated 1106, echo with EF 55%,
+Page 32, Line 22: moderate LAE, but converted to sinus rhythm with meds.
+Page 32, Line 23: No longer going to the gym. Lately, when he comes up the basement stairs, she can manage up the
+Page 32, Line 24: whole time, which she could not do before.
+Page 32, Line 25: She sleeps with oxygen.
+Page 32, Line 26: BPs are running anywhere from 110s-130s/70s-100. Watches salt intake.
+Page 32, Line 27: Medications:
+Page 32, Line 28: Diltiazem HCL 30 mg take 1 tab by mouth as needed for a-fib symptoms, can take another 1 tab
+Page 32, Line 29: 30 minutes later if still symptoms
+Page 32, Line 30: Hydrochlorothiazide 25 mg take 1.5 tablets by mouth every day
+Page 32, Line 31: Eliquis 5 mg 1 by mouth twice a day
+Page 32, Line 32: Lipitor 40 mg 1 by mouth every day
+Page 32, Line 33: Cymbalta 60 mg 1 by mouth every day
+Page 32, Line 34: Turmeric Curcumin once daily
+Page 32, Line 35: Vitamin B + C Complex 1 by mouth every day
+Page 32, Line 36: Vitamin D3 25 mcg (1000 Ut) 1 by mouth every day
+Page 32, Line 37: Diltiazem HCL ER Coated Beads 240 mg 1 capsule by mouth every day (take at night)
+Page 32, Line 38: Plaquenil 200 mg 1 by mouth every day
+Page 33, Line 1: Metoprolol Succinate ER 100 mg 1 1/2 by mouth every day
+===
+Page 33, Line 2: Allergies: NKDA
+Page 33, Line 3: PMH:
+Page 33, Line 4: Problem List: Atrial fibrillation, Hyperlipidemia, Hypertensive disorder, Chronic diastolic heart failure
+Page 33, Line 5: Health Maintenance:
+Page 33, Line 6: <!-- FigureContent="Test -
+Page 33, Line 7: 2022)
+Page 33, Line 8: HgbA1C -
+Page 33, Line 9: PO22)
+Page 33, Line 10: Holter Monitor - (
+Page 33, Line 11: /2022)
+Page 33, Line 12: EKG -
+Page 33, Line 13: 2022)
+Page 33, Line 14: ECHO
+Page 33, Line 15: 2022)
+Page 33, Line 16: ECHO -
+Page 33, Line 17: (2021)" -->
+Page 33, Line 18: Medical Problems:
+Page 33, Line 19: Atrial Fibrillation
+Page 33, Line 20: Hyperlipidemia
+Page 33, Line 21: Hypertension
+Page 33, Line 22: Keratoacanthoma Of Skin
+Page 33, Line 23: Surgical Hx:
+Page 33, Line 24: Skin Surgeries, Knee Replacement
+Page 33, Line 25: (Cardiac Risk Factors)
+Page 33, Line 26: <!-- FigureContent="Cardiac Testing:
+Page 33, Line 27: Nuclear Stress Test -
+Page 33, Line 28: CMP -
+Page 33, Line 29: 2022)
+Page 33, Line 30: BMP -
+Page 33, Line 31: V2022)
+Page 33, Line 32: HGA1C -
+Page 33, Line 33: 2022)
+Page 33, Line 34: (2022)
+Page 33, Line 35: Holter Monitor -
+Page 33, Line 36: 022)
+Page 33, Line 37: EKG - (
+Page 33, Line 38: (2022)
+Page 33, Line 39: Echocardiogram -
+Page 33, Line 40: (2022)
+Page 33, Line 41: BMP -
+Page 33, Line 42: (2022)
+Page 33, Line 43: EKG -
+Page 33, Line 44: (2021)
+Page 33, Line 45: Echocardiogram - (
+Page 33, Line 46: (2021)" -->
+Page 33, Line 47: EKG
+Page 33, Line 48: Cardiac Procedures:
+Page 33, Line 49: None
+Page 33, Line 50: Reviewed, no changes.
+Page 33, Line 51: ROS:
+Page 33, Line 52: Const: Denies fatigue and other constitutional symptoms.
+Page 33, Line 53: Eyes: Denies change in vision.
+Page 33, Line 54: ENMT: Denies mouth or throat symptoms.
+Page 33, Line 55: CV: As per HPI
+Page 33, Line 56: Resp: Denies cough and wheezing.
+Page 33, Line 57: GI: Denies diarrhea, nausea and vomiting.
+Page 33, Line 58: GU: Denies dysuria, hematuria and polyuria.
+Page 33, Line 59: Musculo: Denies arthritis and muscle aches.
+Page 33, Line 60: Skin: Denies skin changes.
+Page 33, Line 61: Neuro: Denies focal weakness.
+Page 33, Line 62: Endocrine: Denies goiter and thyroid problems.
+Page 33, Line 63: Hema/Lymph: Denies anemia, bleeding and easy bruising.
+Page 33, Line 64: Ht: 61" Ht cm: 154.9 Wt: 173lb 6oz Wt kg: 78.643 BMI: 32.8 BSA: 1.78 IBW: 105 BP: 160/90 Pulse: 82
+Page 33, Line 65: O2SatR: 94
+Page 33, Line 66: Exam:
+Page 33, Line 67: Head/Face: Atraumatic on inspection.
+Page 33, Line 68: Eyes: Conjunctivae: Conjunctivae pink. No xanthelasmas of the upper and lower lids.
+Page 33, Line 69: ENMT: Oropharynx moist; gum line normal.
+Page 33, Line 70: Neck: Supple. Jugular venous pressure is normal. Carotids: no bruits bilaterally.
+Page 34, Line 1: Resp: Clear to auscultation bilaterally. No rales or wheezes appreciated over the lungs bilaterally.
+Page 34, Line 2: CV: PMI is normal in the left MCL. Rate is irregular. Rhythm is irregularly irregular. S1 is normal.
+Page 34, Line 3: S2 is normal. No S3 or S4. No heart murmur appreciated. Pedal pulses are normal bilaterally.
+Page 34, Line 4: Abdomen: Soft, nondistended, nontender. Bowel sounds are normoactive. No abdominal bruits, no
+Page 34, Line 5: pulsatile masses.
+Page 34, Line 6: Musculo: Upper Extremities: Edema of the upper extremities bilaterally, but no clubbing or cyanosis of
+Page 34, Line 7: the upper extremities bilaterally. Bilateral nonpitting edema. Lower Extremities: No clubbing, cyanosis
+Page 34, Line 8: or edema of the lower extremities bilaterally.
+Page 34, Line 9: Skin: Skin is warm and dry.
+Page 34, Line 10: Neuro: Speech is clear. No facial asymmetry and good hand grip.
+Page 34, Line 11: Assessment #1: 148.19 Other persistent atrial fibrillation
+Page 34, Line 12: Care Plan:
+Page 34, Line 13: Follow Up
+Page 34, Line 14: : 6 months
+Page 34, Line 15: Assessment #2:
+Page 34, Line 16: Care Plan:
+Page 34, Line 17: 150.32 Chronic diastolic heart failure
+Page 34, Line 18: Care Plan:
+Page 34, Line 19: Assessment #3: 110 Essential (PRIMARY) hypertension
+Page 34, Line 20: Impression:
+Page 34, Line 21: is an
+Page 34, Line 22: lyear old female with a history of atrial flutter/fibrillation,
+Page 34, Line 23: hypertension, hyperlipidemia, diastolic heart failure. She overall feels improved.
+Page 34, Line 24: Recommendations:
+Page 34, Line 25: Follow up in 6 months.
+Page 34, Line 26: The patient's chronic problems were noted during the encounter and considered in
+Page 34, Line 27: the medical management. Some of these conditions are being managed by another
+Page 34, Line 28: provider(s).
+Page 34, Line 29: Any problems, questions or concerns between visits, she is instructed to call our office. Thank you for
+Page 34, Line 30: allowing me to see your patient in follow-up.
+Page 34, Line 31: Electronically signed by Laura Ford-Mukkamala, DO on
+Page 34, Line 32: /2022 at 11:19 am
+Page 34, Line 33: CC: Ford-Mukkamala, Laura, DO
+Page 34, Line 34: Lisa Hoffman MD
+Page 34, Line 35: Due to COVID-19 PPE is being utilized to facilitate this encounter.
+Page 35, Line 1: <!-- FigureContent="WINDSONG
+Page 35, Line 2: WHERE PATIENTS COME FIRST" -->
+Page 35, Line 3: Windsong Radiology Group, P.C.
+Page 35, Line 4: 55 Spindrift Dr., Williamsville, NY 14221
+Page 35, Line 5: PHONE (716) 631-2500 FAX (716) 631-4051
+Page 35, Line 6: www.windsongwny.com
+Page 35, Line 7: Name:
+Page 35, Line 8: DOB:
+Page 35, Line 9: 1935
+Page 35, Line 10: Ordering Provider: ANTHONY FREUNDEL
+Page 35, Line 11: Exam: PET SKULL BASE TO MID THIGH
+Page 35, Line 12: Exam Date:
+Page 35, Line 13: /22
+Page 35, Line 14: PET/CT SCAN:
+Page 35, Line 15: HISTORY: Evaluate progressive nodular density measuring 11 mm in the inferolateral aspect of left lower lobe. Evaluate 7
+Page 35, Line 16: mm nodular density also in left lower lobe on low-dose CT scan of the chest from
+Page 35, Line 17: /2022. Patient smoked for 30 years
+Page 35, Line 18: but quit smoking 50 years ago.
+Page 35, Line 19: PROCEDURE: 14.3 mCi of F-18 fluorodeoxyglucose was administered intravenously, and scanning was started 1 hour
+Page 35, Line 20: later. Following unenhanced multislice CT images through the head, neck, chest, abdomen, pelvis and mid-thigh
+Page 35, Line 21: performed for attenuation correction, anatomic correlation and fusion, PET imaging was performed.
+Page 35, Line 22: COMPARISON: Low-dose CT scans of the chest from
+Page 35, Line 23: /2022 and December 2019.
+Page 35, Line 24: HEAD AND NECK
+Page 35, Line 25: BRAIN: Unremarkable.
+Page 35, Line 26: SINUSES: Unremarkable. A left-sided nasal septal spur is present.
+Page 35, Line 27: PHARYNX, LARYNX AND ORAL CAVITY: Normal physiologic uptake.
+Page 35, Line 28: LYMPH NODES: No enlarged or hypermetabolic nodes.
+Page 35, Line 29: THYROID: Unremarkable.
+Page 35, Line 30: THORAX
+Page 35, Line 31: LUNGS AND PLEURA: No hypermetabolic nodule or mass. An 11 mm nodular consolidation in the inferolateral aspect of
+Page 35, Line 32: the left lower lobe on the June 2022 chest CT is not identified in the current study and is likely due to inflammatory
+Page 35, Line 33: process or atelectasis that has resolved.
+Page 35, Line 34: The 7 mm nodular density in the left lower lobe appears nonhypermetabolic on the current PET/CT images and is likely
+Page 35, Line 35: due to stable scarring.
+Page 35, Line 36: There is no acute infiltrate seen. There is scattered parenchymal scarring in the lungs. Emphysematous changes are
+Page 35, Line 37: stable.
+Page 35, Line 38: LYMPH NODES: No enlarged or hypermetabolic nodes.
+Page 35, Line 39: CHEST WALL: Unremarkable.
+Page 35, Line 40: HEART AND VESSELS: Heart is enlarged. There is prominence of both atria. There is calcification of the mitral annulus.
+Page 35, Line 41: ESOPHAGUS: Unremarkable.
+Page 35, Line 42: ABDOMEN
+Page 35, Line 43: LIVER: The left hepatic lobe appears small in size. There are multiple cysts in the left hepatic lobe as well as in the right
+Page 35, Line 44: hepatic lobe. There are stable tubular hypodensities seen in the atrophic lateral segment of the left hepatic lobe which
+Page 35, Line 45: may be due to chronic ductal dilatation. This appears unchanged from December 2019.
+Page 35, Line 46: There is a 29 mm cyst on the lateral aspect of the lateral segment of the left hepatic lobe. There is a 13 mm cyst in the
+Page 35, Line 47: inferior aspect of the medial segment of the left hepatic lobe as well as an 8 mm cyst anterior to the gallbladder. There is a
+Page 35, Line 48: 26 mm cyst in the anterior aspect of the caudate lobe of the liver, as well as a 14 mm cyst in the superior medial segment
+Page 36, Line 1: <!-- PageNumber="Page #2" -->
+Page 36, Line 2: SOUTHGATE MEDICAL GROUP,LLP
+===
+Page 36, Line 3: DOB
+Page 36, Line 4: 1935
+Page 36, Line 5: of the left hepatic lobe. There is a 20 mm cyst in the medial aspect of the right hepatic lobe.
+Page 36, Line 6: GALLBLADDER AND BILE DUCTS: Unremarkable.
+Page 36, Line 7: SPLEEN: Unremarkable.
+Page 36, Line 8: PANCREAS: There is an 8 mm cyst in the distal aspect of the pancreatic tail. The pancreas is otherwise unremarkable.
+Page 36, Line 9: ADRENALS: Unremarkable.
+Page 36, Line 10: KIDNEYS: There is a cortical scar, containing fat in the lateral midpole of the right kidney. There is a 20 mm exophytic
+Page 36, Line 11: cyst in the posterior midpole of the left kidney.
+Page 36, Line 12: LYMPH NODES: No enlarged or hypermetabolic nodes.
+Page 36, Line 13: BOWEL AND MESENTERY: Unremarkable, demonstrating normal physiologic uptake.
+Page 36, Line 14: VESSELS: Unremarkable.
+Page 36, Line 15: PELVIS
+Page 36, Line 16: LYMPH NODES: No significant pelvic adenopathy.
+Page 36, Line 17: BLADDER: Unremarkable.
+Page 36, Line 18: REPRODUCTIVE ORGANS: There is a 44 mm densely calcified fibroid in the uterine fundus.
+Page 36, Line 19: ASCITES: None.
+Page 36, Line 20: BONES/BONE MARROW
+Page 36, Line 21: HYPERMETABOLIC FOCI: None.
+Page 36, Line 22: OTHER BONE/SOFT TISSUE FINDINGS: Advanced degenerative arthritic changes are present in the glenohumeral
+Page 36, Line 23: joints and acromioclavicular joints bilaterally, sternoclavicular joints, and multiple facet joints in the lower thoracic and
+Page 36, Line 24: lumbar spine. Advanced degenerative arthritic changes are also present in the bilateral hip joints. Degenerative changes
+Page 36, Line 25: are also present in the pubic symphysis and anterior sacroiliac joints bilaterally.
+Page 36, Line 26: IMPRESSION: NONVISUALIZATION OF AN 11 MM NODULAR CONSOLIDATION IN INFERIOR LEFT LOWER LOBE
+Page 36, Line 27: LIKELY DUE TO RESOLUTION OF PNEUMONITIS OR ATELECTASIS.
+Page 36, Line 28: NONHYPERMETABOLIC 6 MM NODULAR DENSITY IN MORE SUPERIOR ASPECT OF LEFT LOWER LOBE LIKELY
+Page 36, Line 29: OF BENIGN ETIOLOGY.
+Page 36, Line 30: STABLE APPEARANCE OF ATROPHIC LEFT HEPATIC LOBE WITH POSSIBLE INTRAHEPATIC DUCT DILATATION.
+Page 36, Line 31: IF ADDITIONAL PRIOR OUTSIDE CT SCANS OF THE ABDOMEN OR MRI OF THE ABDOMEN CAN BE OBTAINED
+Page 36, Line 32: FOR COMPARISON A SUPPLEMENT TO THIS REPORT CAN BE SUBMITTED.
+Page 36, Line 33: HEPATIC CYSTS, AND PANCREATIC TAIL CYST.
+Page 36, Line 34: We appreciate the opportunity to serve you.
+Page 36, Line 35: PATRICK F. LAHR MD
+Page 36, Line 36: /JB
+Page 36, Line 37: LISA HOFFMAN, MD
+Page 36, Line 38: 1026 UNION RD
+Page 36, Line 39: WEST SENECA NY 14224
+Page 36, Line 40: LAURA FORD MUKKAMALA, DO
+Page 36, Line 41: 705 MAPLE RD
+Page 36, Line 42: VIA FAX
+Page 36, Line 43: WILLIAMSVILLE NY 14221
+Page 36, Line 44: <!-- FigureContent="Date/Time Dictated:
+Page 36, Line 45: 2022 12:11 PM
+Page 36, Line 46: Date/Time Approved:
+Page 36, Line 47: /2022 11:33 PM
+Page 36, Line 48: SEE NOTES" -->
+Page 37, Line 1: <!-- PageHeader="8:00:32 AM -0400 KAPROVE & KRUTCHICK, MD'S PC" -->
+Page 37, Line 2: <!-- PageHeader="PAGE 2
+Page 37, Line 3: OF 5" -->
+Page 37, Line 4: RHEUMATOLOGY CONSULTANTS OF WNY, P.C.
+===
+Page 37, Line 5: 3615 SENECA STREET
+Page 37, Line 6: WEST SENECA, NEW YORK 14224
+Page 37, Line 7: TELEPHONE (716) 675-7376 FAX (716) 675-2191
+Page 37, Line 8: MARK E. SCHULTE, M.D. \* MICHAEL WEINGARTEN, M.D.
+Page 37, Line 9: ABBY McCARVILLE, P. A. \* TRICIA DIFRANCO, P.A. \* HOLLY LUDERMAN, N.P.
+Page 37, Line 10: KATIE LLOYD, P.A. \* JENNIFER BOGNAR, P.A.
+Page 37, Line 11: 2022
+Page 37, Line 12: Dr. Lisa Hoffman
+Page 37, Line 13: 1026 Union Road
+Page 37, Line 14: West Seneca, NY
+Page 37, Line 15: 14224
+Page 37, Line 16: cc: Dr Anthony Freundel (Pulmonologist)
+Page 37, Line 17: <!-- FigureContent="Re:
+Page 37, Line 18: DOB:" -->
+Page 37, Line 19: Dear Dr. Hoffman:
+Page 37, Line 20: Thank you for referring your patient,
+Page 37, Line 21: to this office for initial rheumatological
+Page 37, Line 22: evaluation where the patient was seen on
+Page 37, Line 23: /2022 1:05 PM.
+Page 37, Line 24: History of Present Illness:
+Page 37, Line 25: yoF hx HTN, Chol, Depression/Anxiety, Afib (on Eliquis), Pulm fibrosis, C/L-sp stenosis, OA,
+Page 37, Line 26: Sjogrens (+ANA/SSA/B/RF). 1st seen 1/2018 (saw Katie). Sudden R eye vision loss d/t central
+Page 37, Line 27: retinal A occlusion 7/2016. Labs +ANA. Saw Rheum Dr Dang 7/2016 (dx Sjogrens w/o IPA but
+Page 37, Line 28: lost to f/u). Saw Heme Dr. Kraback- no further w/u, cont 81mg ASA. Hx B TKRs. Achey 1st CMCs
+Page 37, Line 29: (R>L), occ MCPs. R 1st CMC replacement (Dr. Paterson) helped few yrs, wore off. Pain was worse
+Page 37, Line 30: w/ activities (opening jars, using knife, turning car keys). Was taking Mobic 15mg QD - minimal
+Page 37, Line 31: relief. OTC topical crms w/o much help. Prev used Voltaren gel - not now. Since then jnts not too
+Page 37, Line 32: bad (just rare 1st CMC pain). No red/warm or swollen jnts. No AM stiffness and can make fists
+Page 37, Line 33: without difficulty. Denies F/C, mouth sores, chest pain, rashes, Raynauds, photosensitivity. +Dry
+Page 37, Line 34: mouth/eyes, uses mouth rinses & gum. Sees Dr Freundel (Pulm) for chr Pulm fibrosis (on Pred
+Page 37, Line 35: 5mg QD) - uses 02 qHS (not often during day. CT Chest 6/2022 no GG opacities, just mild prog
+Page 37, Line 36: pulm fibrosis. Advised to see Rheum to rule out any relationship between pulm fibrosis and ?
+Page 37, Line 37: CTDz/Sjogrens. Comes to appt w/ daughter.
+Page 37, Line 38: Diagnostic tests:
+Page 37, Line 39: PET/CT
+Page 37, Line 40: /22: 11mm nodular consol inf LLL d/t resolution of pneumonitis, 6mm nodular density
+Page 37, Line 41: benign LLL
+Page 37, Line 42: CT Chest 6/2022: mild progression pulm fibrosis, no ground-glass infiltrates
+Page 37, Line 43: 22: CBC/CMP/TSH nl, A1c 6.5%
+Page 37, Line 44: CXR 1/2022: CM w/ vasc congestion, tr L pleural eff, OA shlders e/o B RC tears
+Page 37, Line 45: 17: RF +47, ANA +1:160 speckled, TSH nl
+Page 37, Line 46: 17: CMP (GFR 70), CBC (PLT L 99) otherwise nl
+Page 37, Line 47: /17: BMP (GFR 68)
+Page 37, Line 48: 16: B2GP panel neg, SS-A + >8, SS-B + 1.5, C3/4 nl, ANA +1:80 homo, dsDNA H 5, SPEP
+Page 37, Line 49: NL, RF+ 22, LAC neg
+Page 37, Line 50: 16: cardiolipin panel neg, B2GP panel neg, prt C activity H 187% (70-180), prt S activity nl
+Page 37, Line 51: 16: CBC nl (PLT 178)
+Page 38, Line 1: <!-- PageHeader="8:00:32 AM -0400 KAPROVE & KRUTCHICK, MD'S PC" -->
+Page 38, Line 2: <!-- PageHeader="PAGE 3
+Page 38, Line 3: OF 5" -->
+Page 38, Line 4: At the time of visit, the patient's personal and family history, a detailed review of systems, and
+Page 38, Line 5: physical examination were completed and are available for your review upon request.
+Page 38, Line 6: ## Medications:
+Page 38, Line 7: duloxetine 60 mg capsule,delayed release(DR/EC) (duloxetine)
+Page 38, Line 8: Eliquis 5 mg tablet (apixaban)
+Page 38, Line 9: prednisone 5 mg tablet (prednisone)
+Page 38, Line 10: famotidine 20 mg tablet (famotidine)
+Page 38, Line 11: metoprolol succinate 100 mg tablet extended release 24 hr (metoprolol succinate)
+Page 38, Line 12: diltiazem HCI 240 mg capsule,extended release 24hr (diltiazem hcl)
+Page 38, Line 13: DICLOFENAC SODIUM 1% GEL (DICLOFENAC SODIUM) APPLY 2 GRAMS OF GEL TO THE
+Page 38, Line 14: AFFECTED JOINTS 3 TO 4 TIMES A DAY.
+Page 38, Line 15: VITAMIN C TABLET (ASCORBIC ACID TABS)
+Page 38, Line 16: TURMERIC CURCUMIN 500 MG ORAL CAPSULE (TURMERIC) qd; Route: ORAL
+Page 38, Line 17: VITAMIN D 2000 UNIT ORAL TABLET (CHOLECALCIFEROL) qd; Route: ORAL
+Page 38, Line 18: FISH OIL CAPSULE (OMEGA-3 FATTY ACIDS CAPS) 2 caps PO Qd
+Page 38, Line 19: B COMPLEX ORAL TABLET (B COMPLEX VITAMINS) ; Route: ORAL
+Page 38, Line 20: CYMBALTA 30 MG ORAL CAPSULE DELAYED RELEASE PARTICLES (DULOXETINE HCL)
+Page 38, Line 21: qd; Route: ORAL
+Page 38, Line 22: ASPIRIN 81 MG ORAL TABLET (ASPIRIN) qd; Route: ORAL
+Page 38, Line 23: LIPITOR 40 MG ORAL TABLET (ATORVASTATIN CALCIUM) ; Route: ORAL
+Page 38, Line 24: HYDROCHLOROTHIAZIDE 25 MG ORAL TABLET (HYDROCHLOROTHIAZIDE) ; Route: ORAL
+Page 38, Line 25: ENALAPRIL MALEATE 20 MG ORAL TABLET (ENALAPRIL MALEATE) QD; Route: ORAL
+Page 38, Line 26: ## Assessment/Plan
+Page 38, Line 27: 1\. Sjogren's syndrome (ICD-710.2) (ICD10-M35.00)
+Page 38, Line 28: Clinical hx of dry mouth & eyes in context of +ANA, +SSA/B, low-titer +RF without synovitis at this
+Page 38, Line 29: time or in the past.
+Page 38, Line 30: Has Primary Sjogren's syndrome disease without other underlying rheumatologic disease of joints
+Page 38, Line 31: or CTDz other than Sjogrens.
+Page 38, Line 32: Discussed Bioetene mouth rinses and supportive measures. Doesn't want Salagen or Evoxac.
+Page 38, Line 33: No indication for other immunosuppressives at this time for Sjogrens.
+Page 38, Line 34: Despite pulmonary fibrosis, no evidence of severe ILDz (no ground-glass opacities) noted on CT
+Page 38, Line 35: Chest 6/2022. Therefore, no other recommendations for immunosuppression with regards to
+Page 38, Line 36: pulmonary aspect.
+Page 38, Line 37: Labs: CBC/CMP, ESR/CRP, RF/CCP, ANA/ENA panel, C3/4/dsDNA, ANCA P/C (known
+Page 38, Line 38: low+RF/ANA/SSA/B as noted above) - QUEST
+Page 38, Line 39: Advised on age-appropriate cancer screening (mammograms, colonoscopy).
+Page 38, Line 40: Test Orders:
+Page 38, Line 41: PANCA - Anti-MPO (056) ((056) pANCA). At: EMR-Link Labs.
+Page 38, Line 42: cANCA - Anti-PR3 (057) ((057) cANCA). At: EMR-Link Labs.
+Page 38, Line 43: Ds DNA (Ds DNA). At: EMR-Link Labs."
+Page 38, Line 44: Complement 03; 04 (03; 04): At: CMR-Link Labs.
+Page 38, Line 45: ANA/ENA to REFLEX (RNP; Sm; SS-A; SS-B; DsDNA; ANA titer) (37521). At: EMR-Link Labs.
+Page 38, Line 46: CCP (CCP). At: EMR-Link Labs.
+Page 38, Line 47: RHEUMATOID FACTOR (IGA;IGG;IGM) (19705). At: EMR-Link Labs.
+Page 38, Line 48: ESR (ESR). At: EMR-Link Labs.
+Page 38, Line 49: CRP - NOT HIGH SENSITIVITY (CRP 4420). At: EMR-Link Labs.
+Page 38, Line 50: CMP With eGFR (Comp Metabolic Panel). At: EMR-Link Labs.
+Page 38, Line 51: CBC with Differential (Q6399x;L005009). At: EMR-Link Labs.
+Page 38, Line 52: 2\. Osteoarthritis, generalized, unspecified site (ICD-715.98) (ICD10-M15.0)
+Page 38, Line 53: Clinical hx & physical exam are consistent w/ generalized OA. Poor response to Mobic in past.
+Page 38, Line 54: With being on Eliquis for Afib, should avoid all eral NSAIDs.
+Page 38, Line 55: Cartina Voltarari nolan In SIN & Tulusalin Tin DEN Ahaarlem Ankervative Afrom An
+Page 38, Line 56: \-
+Page 39, Line 1: <!-- PageHeader="8:00:32 AM -0400 KAPROVE & KRUTCHICK, MD'S PC" -->
+Page 39, Line 2: Hx of R 1st CMC replacement by Dr. Paterson - helped few yrs, then wore off. Feeling okay now.
+Page 39, Line 3: Encouraged low impact exercise to tolerance and weight loss as key to long term management of
+Page 39, Line 4: degenerative arthritis.
+Page 39, Line 5: Medications:
+Page 39, Line 6: duloxetine 60 mg capsule;delayed release(DR/EC) (duloxetine)
+Page 39, Line 7: DICLOFENAC SODIUM 1% GEL (DICLOFENAC SODIUM) APPLY 2 GRAMS OF GEL TO THE
+Page 39, Line 8: AFFECTED JOINTS 3 TO 4 TIMES A DAY.
+Page 39, Line 9: 3\. Positive rheumatoid factor (ICD-796.4) (ICD10-R76.8)
+Page 39, Line 10: Hx +RF 47 (2017).
+Page 39, Line 11: Positive rheumatoid factor without synovitis or evidence of underlying rheumatologic disease.
+Page 39, Line 12: Reassurance that low positive rhuematoid factor is common in Sjogren's disease.
+Page 39, Line 13: Labs today: CBC/CMP, ESR/CRP, RF/CCP
+Page 39, Line 14: 4\. Pulmonary fibrosis (ICD-515) (ICD10-J84.10)
+Page 39, Line 15: Despite pulmonary fibrosis, no evidence of severe ILDz (no ground-glass opacities) noted on CT
+Page 39, Line 16: Chest 6/2022. Therefore, no other recommendations for immunosuppression with regards to
+Page 39, Line 17: pulmonary aspect. Just uses 02 qHS.
+Page 39, Line 18: F/u with pulmonologist Dr Fruendel for further evaluation & treatment.
+Page 39, Line 19: Labs: CBC/CMP, ESR/CRP, RF/CCP, ANA/ENA panel, C3/4/dsDNA, ANCA P/C (known
+Page 39, Line 20: low+RF/ANA/SSA/B as noted above) - QUEST
+Page 39, Line 21: F/u as needed
+Page 39, Line 22: CC: Dr Anthony Freundel (Pulmonologist)
+Page 39, Line 23: Test Orders:
+Page 39, Line 24: PANCA - Anti-MPO (056) ((056) pANCA). At: EMR-Link Labs.
+Page 39, Line 25: cANCA - Anti-PR3 (057) ((057) cANCA). At: EMR-Link Labs.
+Page 39, Line 26: Ds DNA (Ds DNA). At: EMR-Link Labs.
+Page 39, Line 27: Complement C3; C4 (C3; C4). At: EMR-Link Labs.
+Page 39, Line 28: ANA/ENA to REFLEX (RNP; Sm; SS-A; SS-B; DsDNA; ANA titer) (37521). At: EMR-Link Labs.
+Page 39, Line 29: CCP (CCP). At: EMR-Link Labs.
+Page 39, Line 30: RHEUMATOID FACTOR (IGA;IGG;IGM) (19705). At: EMR-Link Labs.
+Page 39, Line 31: ESR (ESR). At: EMR-Link Labs.
+Page 39, Line 32: CRP - NOT HIGH SENSITIVITY (CRP 4420). At: EMR-Link Labs.
+Page 39, Line 33: CMP With eGFR (Comp Metabolic Panel). At: EMR-Link Labs.
+Page 39, Line 34: CBC with Differential (Q6399x;L005009). At: EMR-Link Labs.
+Page 39, Line 35: New Orders:
+Page 39, Line 36: CBC with Differential [Q6399x,L005009]
+Page 39, Line 37: CMP With eGFR [Comp Metabolic Panel]
+Page 39, Line 38: CRP - NOT HIGH SENSITIVITY [CRP 4420]
+Page 39, Line 39: ESR [ESR]
+Page 39, Line 40: ANA/ENA to REFLEX (RNP, Sm, SS-A, SS-B, DsDNA, ANA titer) [37521]
+Page 39, Line 41: Complement C3, C4 [C3, C4]
+Page 39, Line 42: Ds DNA [Ds DNA]
+Page 39, Line 43: RHEUMATOID FACTOR (IGA,IGG,IGM) [19705]
+Page 39, Line 44: CCP [CCP]
+Page 39, Line 45: CBC with Differential [Q6399x,L005009]
+Page 39, Line 46: CMP With eGFR [Comp Metabolic Panel]
+Page 39, Line 47: CRP - NOT HIGH SENSITIVITY [CRP 4420]
+Page 39, Line 48: ESR [ESR]
+Page 39, Line 49: RHEUMATOID FACTOR (IGA,IGG,IGM) [19705]
+Page 39, Line 50: CCP [CCP]
+Page 39, Line 51: ANA/ENA to REFLEX (RNP, Sm, SS-A, SS-B, DsDNA, ANA titer) [37521]
+Page 39, Line 52: Complement C3, C4 [C3, C4]
+Page 39, Line 53: Ds DNA [Ds DNA]
+Page 39, Line 54: cANCA - Anti-PR3 (057) [(057) cANCA]
+Page 39, Line 55: PANCA - Anti-MPO (056) [(056) pANCA]
+Page 39, Line 56: <!-- PageHeader="PAGE 4
+Page 39, Line 57: OF 5" -->
+Page 40, Line 1: 8:00:32 AM -0400 KAPROVE & KRUTCHICK, MD'S PC
+Page 40, Line 2: PAGE 5
+Page 40, Line 3: OF 5
+Page 40, Line 4: New Patient - Comprehensive [CPT-99205]
+Page 40, Line 5: Follow Up: PRN
+Page 40, Line 6: Thank you for the opportunity to participate in the care of
+Page 40, Line 7: Sincerely,
+Page 40, Line 8: Michael Weingarten MD
+Page 40, Line 9: Signed by: Michael Weingarten MD
+Page 40, Line 10: 2022
+
