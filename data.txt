@@ -1,3 +1,24 @@
+## Try this ##
+Here's a prompt that should achieve the desired results:
+
+"Analyze the following medical record, ignoring the page and line number metadata. Identify specific medical evidence of any diseases or conditions mentioned. For each piece of evidence you find, provide:
+
+1. The exact medical finding
+2. The disease or condition it suggests
+3. The precise page and line number where this evidence appears in the original text
+
+Present your findings in a structured, numbered list. Be specific and only include clear medical evidence from the record. Do not make assumptions beyond what is explicitly stated. Your response should be consistent and deterministic based solely on the information provided in the record."
+
+This prompt instructs the LLM to:
+1. Read the content without considering the metadata
+2. Identify medical evidence of diseases
+3. Provide the exact page and line numbers for each piece of evidence
+4. Respond with specific, deterministic results based only on the given information
+
+The structured format and clear instructions should help ensure consistent and precise responses from the LLM.
+
+
+
 Page 1, Line 1: Printed by PRATTS, DAWN [14999]
 Page 1, Line 2: <!-- PageNumber="Page 1 of 4" -->
 Page 1, Line 3: Order#
