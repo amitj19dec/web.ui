@@ -1,3 +1,104 @@
+Code:
+
+To generate a PDF with highlighted content based on the LLM's output, you can use Python with the `reportlab` library for PDF creation and the `PyPDF2` library for PDF manipulation. Here's a step-by-step approach:
+
+1. First, install the required libraries:
+
+```
+pip install reportlab PyPDF2
+```
+
+2. Here's a Python script that demonstrates how to create a PDF with highlighted text:
+
+```python
+from reportlab.lib.pagesizes import letter
+from reportlab.pdfgen import canvas
+from reportlab.lib.colors import yellow
+from reportlab.lib.utils import simpleSplit
+from PyPDF2 import PdfReader, PdfWriter
+import io
+
+def create_pdf_with_highlights(text, highlights):
+    # Create a PDF in memory
+    packet = io.BytesIO()
+    can = canvas.Canvas(packet, pagesize=letter)
+    width, height = letter
+
+    # Write the text to the PDF
+    text_object = can.beginText(40, height - 40)
+    text_object.setFont("Helvetica", 12)
+    
+    lines = text.split('\n')
+    for line in lines:
+        text_object.textLine(line)
+    
+    can.drawText(text_object)
+
+    # Add highlights
+    for highlight in highlights:
+        page, line, phrase = highlight
+        y_position = height - 40 - (line - 1) * 14  # Adjust 14 based on your line height
+        text_width = can.stringWidth(phrase, "Helvetica", 12)
+        can.setFillColor(yellow)
+        can.rect(40, y_position - 2, text_width, 14, fill=1, stroke=0)
+
+    can.save()
+
+    # Move to the beginning of the StringIO buffer
+    packet.seek(0)
+    
+    # Create a new PDF with Reportlab
+    new_pdf = PdfReader(packet)
+    
+    # Add the "watermark" (which is the new pdf) on the existing page
+    output = PdfWriter()
+    page = new_pdf.pages[0]
+    output.add_page(page)
+
+    # Finally, write "output" to a real file
+    output_stream = open("highlighted_document.pdf", "wb")
+    output.write(output_stream)
+    output_stream.close()
+
+# Example usage
+text = """CLINICAL HISTORY: Short of breath.
+An AP portable view of the chest is examined.
+The heart is enlarged. Atherosclerotic changes are seen in the aorta.
+Pulmonary vascular congestion is present. No focal infiltrate is identified. There is a trace left pleural effusion.
+There are arthritic changes in the shoulders with evidence for bilateral chronic rotator cuff tears.
+IMPRESSION:
+Cardiomegaly with mild vascular congestion and trace left pleural effusion."""
+
+highlights = [
+    (1, 1, "Short of breath"),
+    (1, 3, "heart is enlarged"),
+    (1, 4, "Pulmonary vascular congestion"),
+    (1, 4, "trace left pleural effusion"),
+    (1, 8, "Cardiomegaly with mild vascular congestion and trace left pleural effusion")
+]
+
+create_pdf_with_highlights(text, highlights)
+```
+
+This script does the following:
+
+1. It defines a function `create_pdf_with_highlights` that takes the text content and a list of highlights.
+2. It creates a PDF using ReportLab, writing the text content.
+3. It adds yellow highlights to the specified phrases.
+4. It saves the PDF to a file named "highlighted_document.pdf".
+
+The `highlights` list contains tuples with (page, line, phrase) information. In this example, we're assuming everything is on one page, so the page number is always 1.
+
+To use this with the LLM output:
+
+1. Process the LLM output to create the `highlights` list.
+2. Extract the full text content (without page and line numbers) from your original document.
+3. Call the `create_pdf_with_highlights` function with your text and highlights.
+
+Note: You may need to adjust the positioning calculations depending on your specific document layout and font size.
+
+This approach creates a new PDF rather than modifying an existing one, which gives you more control over the layout but may not preserve complex formatting from the original document. If you need to highlight an existing PDF, you would need to use a different approach, possibly with a library like `PyMuPDF`.
+
 ## Try this ##
 Here's a prompt that should achieve the desired results:
 
