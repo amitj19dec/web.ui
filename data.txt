@@ -1,3 +1,103 @@
+Code 2:
+Certainly! I'll modify the script to store the metadata in a map (dictionary in Python) where the key is the word and the value is a list of metadata for each occurrence of that word. This approach will handle multiple occurrences of the same word in the file. Here's the updated script:
+
+```python
+import re
+from collections import defaultdict
+
+def process_file(file_path):
+    word_metadata = defaultdict(list)
+    with open(file_path, 'r') as file:
+        for line_num, line in enumerate(file, 1):
+            words = re.findall(r'\b\w+\b', line.lower())
+            for word_num, word in enumerate(words, 1):
+                metadata = {
+                    'line_num': line_num,
+                    'word_num': word_num,
+                    'next_word': words[word_num] if word_num < len(words) else None,
+                    'prev_word': words[word_num - 2] if word_num > 1 else None
+                }
+                word_metadata[word].append(metadata)
+    return word_metadata
+
+def highlight_sequence(word_metadata, sequence):
+    sequence = [word.lower() for word in sequence]
+    highlighted_text = []
+    words_list = [word for word in word_metadata for _ in range(len(word_metadata[word]))]
+    words_list.sort(key=lambda w: (word_metadata[w][0]['line_num'], word_metadata[w][0]['word_num']))
+    
+    i = 0
+    while i < len(words_list):
+        if i + len(sequence) <= len(words_list):
+            potential_match = words_list[i:i+len(sequence)]
+            if potential_match == sequence:
+                # Check if words are consecutive
+                is_consecutive = all(
+                    word_metadata[potential_match[j]][0]['line_num'] == word_metadata[potential_match[j-1]][0]['line_num'] and
+                    word_metadata[potential_match[j]][0]['word_num'] == word_metadata[potential_match[j-1]][0]['word_num'] + 1
+                    for j in range(1, len(potential_match))
+                )
+                if is_consecutive:
+                    highlight = '<highlight>' + ' '.join(potential_match) + '</highlight>'
+                    highlighted_text.append(highlight)
+                    i += len(sequence)
+                    continue
+        
+        highlighted_text.append(words_list[i])
+        i += 1
+    
+    # Reconstruct the text with line breaks
+    final_text = []
+    current_line = 1
+    for item in highlighted_text:
+        if '<highlight>' in item:
+            words = item.replace('<highlight>', '').replace('</highlight>', '').split()
+            first_word = words[0]
+            metadata = word_metadata[first_word][0]
+            if metadata['line_num'] > current_line:
+                final_text.append('\n' * (metadata['line_num'] - current_line))
+                current_line = metadata['line_num']
+            final_text.append(item)
+        else:
+            metadata = word_metadata[item][0]
+            if metadata['line_num'] > current_line:
+                final_text.append('\n' * (metadata['line_num'] - current_line))
+                current_line = metadata['line_num']
+            final_text.append(item)
+    
+    return ' '.join(final_text)
+
+# Example usage
+file_path = 'your_file.txt'
+word_metadata = process_file(file_path)
+
+# Print metadata for each word
+for word, metadata_list in word_metadata.items():
+    print(f"Word: {word}")
+    for metadata in metadata_list:
+        print(f"  {metadata}")
+
+# Highlight a sequence of words
+sequence_to_highlight = ['example', 'sequence', 'of', 'words']
+highlighted_text = highlight_sequence(word_metadata, sequence_to_highlight)
+print("\nHighlighted text:")
+print(highlighted_text)
+```
+
+Key changes in this updated version:
+
+1. The `process_file` function now uses a `defaultdict(list)` to store metadata. Each word is a key, and its value is a list of metadata dictionaries for each occurrence of that word.
+
+2. The `highlight_sequence` function has been modified to work with this new data structure:
+   - We create a `words_list` that contains all words in the order they appear in the file.
+   - We use this list to check for consecutive sequences and to reconstruct the text.
+
+3. When checking if words are consecutive, we now look at the first occurrence of each word in the sequence (index 0 in the metadata list for each word).
+
+4. The highlighting logic remains similar, ensuring that words are consecutive and on the same line before highlighting them.
+
+This approach allows the script to handle multiple occurrences of the same word in the file while still maintaining the ability to highlight consecutive sequences of words. The metadata for each word is easily accessible through the dictionary, and the script preserves the original structure of the text, including line breaks.
+
 Code:
 
 To generate a PDF with highlighted content based on the LLM's output, you can use Python with the `reportlab` library for PDF creation and the `PyPDF2` library for PDF manipulation. Here's a step-by-step approach:
