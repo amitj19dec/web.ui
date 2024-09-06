@@ -52,7 +52,7 @@ Note that the first code cell (`!{sys.executable} -m pip install spacy` and `!py
 If you're running this code in a different environment, such as a Python script or an Azure Function, you would replace the first code cell with the appropriate pip install commands or include the spaCy library and language model in your deployment package.
 
 
-## spaCy + Lanchain##
+## spaCy + Lanchain
 
 To achieve this, you can combine spaCy for sentence tokenization and Langchain's `CharacterTextSplitter` with a custom length function to ensure that complete sentences are included within each chunk. Here's an example of how you can implement this:
 
